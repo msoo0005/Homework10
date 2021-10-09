@@ -1,0 +1,101 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 300,
+    "height": 200,
+    "data": {"url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/full_renewable_data.csv"},
+    "params": [
+        {
+        "name": "Region_selection",
+        "bind": {
+        "input": "select",
+        "options": [
+        null,
+        "Africa",
+        "Asia",
+        "Central America and the Caribbean",
+        "Eurasia",
+        "Europe",
+        "Middle East",
+        "North America",
+        "Oceania",
+        "South America"
+        ],
+        "labels":[
+        "Show All",
+        "Africa",
+        "Asia",
+        "Central America and the Caribbean",
+        "Eurasia",
+        "Europe",
+        "Middle East",
+        "North America",
+        "Oceania",
+        "South America"
+        ],
+        "name": "Region: "
+        }
+        }
+        ],
+        "transform": [
+            {"filter": "Region_selection == null || datum.Region == Region_selection"}],
+             
+    "selection":{
+      "continent_highlight": {
+        "type": "multi",
+        "fields": ["Group Technology"],
+        "bind": "legend"
+  
+      }
+    },
+    "mark": "area",
+    "encoding": {
+      "x": {
+        "timeUnit": "yearmonth",
+        "field": "Year",
+        "axis": {"title":"Year", "domain": false, "format": "%Y", "tickSize": 0}
+      },
+      "y": {
+
+        "aggregate": "sum",
+        "field": "Electricity Generation (GWh)",
+        "axis": null,
+        "stack": "center"
+      },
+            "color": {
+        "field": "Group Technology",
+        "type": "nominal",
+        "scale": {
+        "domain": [
+       "Bioenergy",
+       "Geothermal energy",
+       "Hydropower (excl. Pumped Storage)",
+       "Marine energy",
+       "Nuclear",
+       "Pumped storage",
+       "Solar energy",
+       "Wind energy"
+        ],
+        "range": [
+        "#2e1a1a",
+        "#ff8800",
+        "#1100ff",
+        "#9900ff",
+        "#00ff00",
+        "#00fff2",
+        "#ffff00",
+        "#096106"
+        ]}
+        },
+      "opacity": {
+        "condition": {
+          "selection": "continent_highlight", "value": 0.6},
+          "value": 0.2
+      },
+      "tooltip": [
+        {"title":"Technology Type","field": "Group Technology", "type": "nominal"},
+        {"title":"Energy (GWh)", "field": "Electricity Generation (GWh)", "type": "quantitative", "format": ".2f", "aggregate":"sum"},
+        {"title":"Year","field": "Year", "type": "quantitative", "timeUnit": "year"}
+
+        ]
+    }
+  }
