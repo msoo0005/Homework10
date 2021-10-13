@@ -1,0 +1,1032 @@
+﻿Region,Country,Group Technology,Technology,,,Electricity Generation (GWh)
+Africa,Algeria,Hydropower (excl. Pumped Storage),Renewable hydropower,,,117
+Africa,Algeria,Solar energy,Concentrated solar power,,,133.11
+Africa,Algeria,Solar energy,Off-grid Solar photovoltaic,,,373.6
+Africa,Algeria,Wind energy,Onshore wind energy,,,159.9
+Africa,Angola,Bioenergy,Solid biofuels,,,200
+Africa,Angola,Hydropower (excl. Pumped Storage),Renewable hydropower,,,25.718
+Africa,Angola,Hydropower (excl. Pumped Storage),Renewable hydropower,,,7653.016
+Africa,Angola,Solar energy,Off-grid Solar photovoltaic,,,18.271
+Africa,Benin,Hydropower (excl. Pumped Storage),Renewable hydropower,,,0.072
+Africa,Benin,Solar energy,Off-grid Solar photovoltaic,,,2.759
+Africa,Benin,Solar energy,On-grid Solar photovoltaic,,,2.578
+Africa,Botswana,Solar energy,Off-grid Solar photovoltaic,,,2.761
+Africa,Botswana,Solar energy,On-grid Solar photovoltaic,,,1.946
+Africa,Burkina Faso,Bioenergy,Biogas,,,1
+Africa,Burkina Faso,Bioenergy,Liquid biofuels,,,0.3
+Africa,Burkina Faso,Hydropower (excl. Pumped Storage),Renewable hydropower,,,127.933
+Africa,Burkina Faso,Solar energy,Off-grid Solar photovoltaic,,,43.7
+Africa,Burkina Faso,Solar energy,On-grid Solar photovoltaic,,,9.447
+Africa,Burundi,Bioenergy,Solid biofuels,,,5.788
+Africa,Burundi,Hydropower (excl. Pumped Storage),Renewable hydropower,,,7.979
+Africa,Burundi,Hydropower (excl. Pumped Storage),Renewable hydropower,,,232.357
+Africa,Burundi,Solar energy,Off-grid Solar photovoltaic,,,7.299
+Africa,Burundi,Solar energy,On-grid Solar photovoltaic,,,0.626
+Africa,Cabo Verde,Solar energy,Off-grid Solar photovoltaic,,,0.067
+Africa,Cabo Verde,Solar energy,On-grid Solar photovoltaic,,,9.054
+Africa,Cabo Verde,Wind energy,Onshore wind energy,,,80.231
+Africa,Cameroon,Hydropower (excl. Pumped Storage),Renewable hydropower,,,5089.9
+Africa,Cameroon,Solar energy,Off-grid Solar photovoltaic,,,19.5
+Africa,Central African Republic,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1.3
+Africa,Central African Republic,Hydropower (excl. Pumped Storage),Renewable hydropower,,,134.3
+Africa,Central African Republic,Solar energy,Off-grid Solar photovoltaic,,,0.426
+Africa,Chad,Solar energy,Off-grid Solar photovoltaic,,,0.318
+Africa,Chad,Wind energy,Onshore wind energy,,,8.9
+Africa,Congo,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1241.502
+Africa,Congo,Solar energy,Off-grid Solar photovoltaic,,,0.714
+Africa,Côte d'Ivoire,Hydropower (excl. Pumped Storage),Renewable hydropower,,,2962
+Africa,Côte d'Ivoire,Solar energy,Off-grid Solar photovoltaic,,,6.8
+Africa,Democratic Republic of the Congo,Hydropower (excl. Pumped Storage),Renewable hydropower,,,475.919
+Africa,Democratic Republic of the Congo,Hydropower (excl. Pumped Storage),Renewable hydropower,,,9460
+Africa,Democratic Republic of the Congo,Solar energy,Off-grid Solar photovoltaic,,,26.68
+Africa,Djibouti,Solar energy,Off-grid Solar photovoltaic,,,0.6
+Africa,Egypt,Bioenergy,Solid biofuels,,,304.854
+Africa,Egypt,Hydropower (excl. Pumped Storage),Renewable hydropower,,,12726
+Africa,Egypt,Solar energy,Concentrated solar power,,,483.924
+Africa,Egypt,Solar energy,Off-grid Solar photovoltaic,,,24.96
+Africa,Egypt,Solar energy,On-grid Solar photovoltaic,,,44.129
+Africa,Egypt,Wind energy,Onshore wind energy,,,2334
+Africa,Equatorial Guinea,Hydropower (excl. Pumped Storage),Renewable hydropower,,,127
+Africa,Eritrea,Solar energy,Off-grid Solar photovoltaic,,,19.446
+Africa,Eritrea,Wind energy,Onshore wind energy,,,2
+Africa,Eswatini,Bioenergy,Solid biofuels,,,200.008
+Africa,Eswatini,Hydropower (excl. Pumped Storage),Renewable hydropower,,,3.4
+Africa,Eswatini,Hydropower (excl. Pumped Storage),Renewable hydropower,,,207.8
+Africa,Eswatini,Solar energy,Off-grid Solar photovoltaic,,,1.174
+Africa,Eswatini,Solar energy,On-grid Solar photovoltaic,,,0.105
+Africa,Ethiopia,Bioenergy,Solid biofuels,,,29.498
+Africa,Ethiopia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,12680.954
+Africa,Ethiopia,Solar energy,Off-grid Solar photovoltaic,,,17.624
+Africa,Ethiopia,Wind energy,Onshore wind energy,,,0.011
+Africa,Ethiopia,Wind energy,Onshore wind energy,,,532.513
+Africa,Gabon,Bioenergy,Biogas,,,1.22
+Africa,Gabon,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1.387
+Africa,Gabon,Hydropower (excl. Pumped Storage),Renewable hydropower,,,980.93
+Africa,Gabon,Solar energy,Off-grid Solar photovoltaic,,,1.92
+Africa,Gambia,Solar energy,Off-grid Solar photovoltaic,,,3.192
+Africa,Gambia,Solar energy,On-grid Solar photovoltaic,,,0.28
+Africa,Gambia,Wind energy,Onshore wind energy,,,0.1
+Africa,Ghana,Bioenergy,Biogas,,,0.32
+Africa,Ghana,Bioenergy,Solid biofuels,,,357.423
+Africa,Ghana,Hydropower (excl. Pumped Storage),Renewable hydropower,,,6017
+Africa,Ghana,Solar energy,Off-grid Solar photovoltaic,,,10.622
+Africa,Ghana,Solar energy,On-grid Solar photovoltaic,,,32.8
+Africa,Ghana,Wind energy,Onshore wind energy,,,0.054
+Africa,Guinea,Hydropower (excl. Pumped Storage),Renewable hydropower,,,9.024
+Africa,Guinea,Hydropower (excl. Pumped Storage),Renewable hydropower,,,732
+Africa,Guinea,Solar energy,Off-grid Solar photovoltaic,,,20.47
+Africa,Guinea,Solar energy,On-grid Solar photovoltaic,,,0.123
+Africa,Guinea-Bissau,Solar energy,Off-grid Solar photovoltaic,,,1.889
+Africa,Kenya,Bioenergy,Biogas,,,0.482
+Africa,Kenya,Bioenergy,Biogas,,,0.55
+Africa,Kenya,Bioenergy,Solid biofuels,,,162.873
+Africa,Kenya,Geothermal energy,Geothermal energy,,,5004.757
+Africa,Kenya,Hydropower (excl. Pumped Storage),Renewable hydropower,,,3355.381
+Africa,Kenya,Solar energy,Off-grid Solar photovoltaic,,,72.871
+Africa,Kenya,Solar energy,On-grid Solar photovoltaic,,,1.683
+Africa,Kenya,Wind energy,Onshore wind energy,,,0.062
+Africa,Kenya,Wind energy,Onshore wind energy,,,55.845
+Africa,Lesotho,Hydropower (excl. Pumped Storage),Renewable hydropower,,,0.4
+Africa,Lesotho,Hydropower (excl. Pumped Storage),Renewable hydropower,,,538.274
+Africa,Lesotho,Solar energy,Off-grid Solar photovoltaic,,,0.282
+Africa,Lesotho,Solar energy,On-grid Solar photovoltaic,,,0.48
+Africa,Liberia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,21
+Africa,Liberia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,103
+Africa,Liberia,Solar energy,Off-grid Solar photovoltaic,,,3.624
+Africa,Libya,Solar energy,Off-grid Solar photovoltaic,,,7.791
+Africa,Madagascar,Bioenergy,Solid biofuels,,,0.615
+Africa,Madagascar,Hydropower (excl. Pumped Storage),Renewable hydropower,,,29.974
+Africa,Madagascar,Hydropower (excl. Pumped Storage),Renewable hydropower,,,968.331
+Africa,Madagascar,Solar energy,Off-grid Solar photovoltaic,,,22.555
+Africa,Madagascar,Wind energy,Onshore wind energy,,,0.465
+Africa,Malawi,Bioenergy,Solid biofuels,,,53.849
+Africa,Malawi,Hydropower (excl. Pumped Storage),Renewable hydropower,,,6.342
+Africa,Malawi,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1350.132
+Africa,Malawi,Solar energy,Off-grid Solar photovoltaic,,,45.001
+Africa,Malawi,Solar energy,On-grid Solar photovoltaic,,,1.779
+Africa,Mali,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1702.174
+Africa,Mali,Solar energy,Off-grid Solar photovoltaic,,,31.751
+Africa,Mauritania,Solar energy,Off-grid Solar photovoltaic,,,33.706
+Africa,Mauritania,Solar energy,On-grid Solar photovoltaic,,,110
+Africa,Mauritania,Wind energy,Onshore wind energy,,,13.336
+Africa,Mauritania,Wind energy,Onshore wind energy,,,90.928
+Africa,Mauritius,Bioenergy,Biogas,,,22.6
+Africa,Mauritius,Bioenergy,Solid biofuels,,,437.1
+Africa,Mauritius,Hydropower (excl. Pumped Storage),Renewable hydropower,,,124.5
+Africa,Mauritius,Solar energy,On-grid Solar photovoltaic,,,49.4
+Africa,Mauritius,Wind energy,Onshore wind energy,,,15.1
+Africa,Mayotte,Solar energy,On-grid Solar photovoltaic,,,16.863
+Africa,Morocco,Bioenergy,Biogas,,,13.264
+Africa,Morocco,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1693.443
+Africa,Morocco,Solar energy,Concentrated solar power,,,948.753
+Africa,Morocco,Solar energy,Off-grid Solar photovoltaic,,,29.348
+Africa,Morocco,Solar energy,On-grid Solar photovoltaic,,,1.402
+Africa,Morocco,Wind energy,Onshore wind energy,,,15.242
+Africa,Morocco,Wind energy,Onshore wind energy,,,3840.743
+Africa,Mozambique,Bioenergy,Solid biofuels,,,61.457
+Africa,Mozambique,Hydropower (excl. Pumped Storage),Renewable hydropower,,,6.69
+Africa,Mozambique,Hydropower (excl. Pumped Storage),Renewable hydropower,,,13901
+Africa,Mozambique,Solar energy,Off-grid Solar photovoltaic,,,1.648
+Africa,Namibia,Bioenergy,Solid biofuels,,,0.219
+Africa,Namibia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1085.5
+Africa,Namibia,Solar energy,Off-grid Solar photovoltaic,,,40.788
+Africa,Namibia,Solar energy,On-grid Solar photovoltaic,,,139.038
+Africa,Namibia,Wind energy,Onshore wind energy,,,0.029
+Africa,Namibia,Wind energy,Onshore wind energy,,,18.092
+Africa,Niger,Solar energy,Off-grid Solar photovoltaic,,,32.7
+Africa,Nigeria,Bioenergy,Biogas,,,0.16
+Africa,Nigeria,Bioenergy,Solid biofuels,,,32.927
+Africa,Nigeria,Hydropower (excl. Pumped Storage),Renewable hydropower,,,3.128
+Africa,Nigeria,Hydropower (excl. Pumped Storage),Renewable hydropower,,,6755.211
+Africa,Nigeria,Solar energy,Off-grid Solar photovoltaic,,,25.944
+Africa,Nigeria,Solar energy,On-grid Solar photovoltaic,,,2.245
+Africa,Nigeria,Wind energy,Onshore wind energy,,,3
+Africa,Réunion,Bioenergy,Biogas,,,12.7
+Africa,Réunion,Bioenergy,Solid biofuels,,,196.3
+Africa,Réunion,Bioenergy,Liquid biofuels,,,2.3
+Africa,Réunion,Hydropower (excl. Pumped Storage),Renewable hydropower,,,601.4
+Africa,Réunion,Solar energy,On-grid Solar photovoltaic,,,253.3
+Africa,Réunion,Wind energy,Onshore wind energy,,,12.8
+Africa,Rwanda,Bioenergy,Solid biofuels,,,2.329
+Africa,Rwanda,Hydropower (excl. Pumped Storage),Renewable hydropower,,,2.283
+Africa,Rwanda,Hydropower (excl. Pumped Storage),Renewable hydropower,,,328.398
+Africa,Rwanda,Solar energy,Off-grid Solar photovoltaic,,,27.847
+Africa,Rwanda,Solar energy,On-grid Solar photovoltaic,,,16.357
+Africa,Sao Tome and Principe,Hydropower (excl. Pumped Storage),Renewable hydropower,,,5.89
+Africa,Sao Tome and Principe,Solar energy,Off-grid Solar photovoltaic,,,0.399
+Africa,Senegal,Bioenergy,Solid biofuels,,,110.3
+Africa,Senegal,Solar energy,Off-grid Solar photovoltaic,,,20.484
+Africa,Senegal,Solar energy,On-grid Solar photovoltaic,,,212.45
+Africa,Seychelles,Solar energy,Off-grid Solar photovoltaic,,,1.291
+Africa,Seychelles,Solar energy,On-grid Solar photovoltaic,,,3.535
+Africa,Seychelles,Wind energy,Onshore wind energy,,,7.392
+Africa,Sierra Leone,Bioenergy,Solid biofuels,,,3.942
+Africa,Sierra Leone,Hydropower (excl. Pumped Storage),Renewable hydropower,,,19.123
+Africa,Sierra Leone,Hydropower (excl. Pumped Storage),Renewable hydropower,,,219
+Africa,Sierra Leone,Solar energy,Off-grid Solar photovoltaic,,,6.228
+Africa,Somalia,Solar energy,Off-grid Solar photovoltaic,,,11.026
+Africa,Somalia,Wind energy,Onshore wind energy,,,6.22
+Africa,South Africa,Nuclear,Nuclear,,,12233.25
+Africa,South Africa,Bioenergy,Biogas,,,45.3
+Africa,South Africa,Bioenergy,Solid biofuels,,,443.939
+Africa,South Africa,Hydropower (excl. Pumped Storage),Renewable hydropower,,,19.529
+Africa,South Africa,Hydropower (excl. Pumped Storage),Renewable hydropower,,,949
+Africa,South Africa,Solar energy,Concentrated solar power,,,1029
+Africa,South Africa,Solar energy,On-grid Solar photovoltaic,,,3926.261
+Africa,South Africa,Wind energy,Onshore wind energy,,,6467
+Africa,South Sudan,Solar energy,Off-grid Solar photovoltaic,,,0.827
+Africa,Sudan,Bioenergy,Solid biofuels,,,118.055
+Africa,Sudan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,9657
+Africa,Sudan,Solar energy,Off-grid Solar photovoltaic,,,20.455
+Africa,Togo,Hydropower (excl. Pumped Storage),Renewable hydropower,,,204
+Africa,Togo,Solar energy,Off-grid Solar photovoltaic,,,4.449
+Africa,Tunisia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,17
+Africa,Tunisia,Solar energy,Off-grid Solar photovoltaic,,,2.987
+Africa,Tunisia,Solar energy,On-grid Solar photovoltaic,,,55
+Africa,Tunisia,Wind energy,Onshore wind energy,,,453
+Africa,Uganda,Bioenergy,Solid biofuels,,,285.993
+Africa,Uganda,Hydropower (excl. Pumped Storage),Renewable hydropower,,,16.137
+Africa,Uganda,Hydropower (excl. Pumped Storage),Renewable hydropower,,,3601.18
+Africa,Uganda,Solar energy,Off-grid Solar photovoltaic,,,40.712
+Africa,Uganda,Solar energy,On-grid Solar photovoltaic,,,32.31
+Africa,United Republic of Tanzania,Bioenergy,Biogas,,,0.035
+Africa,United Republic of Tanzania,Bioenergy,Biogas,,,4.3
+Africa,United Republic of Tanzania,Bioenergy,Solid biofuels,,,63.798
+Africa,United Republic of Tanzania,Bioenergy,Solid biofuels,,,74.248
+Africa,United Republic of Tanzania,Bioenergy,Liquid biofuels,,,0.21
+Africa,United Republic of Tanzania,Hydropower (excl. Pumped Storage),Renewable hydropower,,,48.578
+Africa,United Republic of Tanzania,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1788.438
+Africa,United Republic of Tanzania,Solar energy,Off-grid Solar photovoltaic,,,45.585
+Africa,Zambia,Bioenergy,Solid biofuels,,,78.305
+Africa,Zambia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,2.7
+Africa,Zambia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,13690.77
+Africa,Zambia,Solar energy,Off-grid Solar photovoltaic,,,0.389
+Africa,Zimbabwe,Bioenergy,Solid biofuels,,,257.021
+Africa,Zimbabwe,Hydropower (excl. Pumped Storage),Renewable hydropower,,,5.618
+Africa,Zimbabwe,Hydropower (excl. Pumped Storage),Renewable hydropower,,,5449.06
+Africa,Zimbabwe,Solar energy,Off-grid Solar photovoltaic,,,13.823
+Africa,Zimbabwe,Solar energy,On-grid Solar photovoltaic,,,4.709
+Asia,Afghanistan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,105.841
+Asia,Afghanistan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,821.811
+Asia,Afghanistan,Solar energy,Off-grid Solar photovoltaic,,,34.914
+Asia,Afghanistan,Solar energy,On-grid Solar photovoltaic,,,2.263
+Asia,Afghanistan,Wind energy,Onshore wind energy,,,0.123
+Asia,Bangladesh,Bioenergy,Biogas,,,2.001
+Asia,Bangladesh,Bioenergy,Solid biofuels,,,0.876
+Asia,Bangladesh,Hydropower (excl. Pumped Storage),Renewable hydropower,,,898.489
+Asia,Bangladesh,Solar energy,Off-grid Solar photovoltaic,,,212.927
+Asia,Bangladesh,Solar energy,On-grid Solar photovoltaic,,,62.141
+Asia,Bangladesh,Wind energy,Onshore wind energy,,,3.504
+Asia,Bangladesh,Wind energy,Onshore wind energy,,,1.577
+Asia,Bhutan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,18.05
+Asia,Bhutan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,6940.58
+Asia,Bhutan,Solar energy,Off-grid Solar photovoltaic,,,0.662
+Asia,Bhutan,Wind energy,Onshore wind energy,,,1.13
+Asia,Brunei Darussalam,Solar energy,On-grid Solar photovoltaic,,,1.596
+Asia,Cambodia,Bioenergy,Biogas,,,5.84
+Asia,Cambodia,Bioenergy,Solid biofuels,,,1.484
+Asia,Cambodia,Bioenergy,Solid biofuels,,,69.148
+Asia,Cambodia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,4737.013
+Asia,Cambodia,Solar energy,Off-grid Solar photovoltaic,,,1.952
+Asia,Cambodia,Solar energy,On-grid Solar photovoltaic,,,41.033
+Asia,Cambodia,Wind energy,Onshore wind energy,,,0.3
+Asia,China,Nuclear,Nuclear,,,295000
+Asia,China,Bioenergy,Biogas,,,3203.58
+Asia,China,Bioenergy,Solid biofuels,,,40832.931
+Asia,China,Bioenergy,Renewable municipal waste,,,23264.092
+Asia,China,Geothermal energy,Geothermal energy,,,143.5
+Asia,China,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1199200
+Asia,China,Solar energy,Concentrated solar power,,,8.983
+Asia,China,Solar energy,Off-grid Solar photovoltaic,,,515.043
+Asia,China,Solar energy,On-grid Solar photovoltaic,,,177546.728
+Asia,China,Wind energy,Onshore wind energy,,,491.97
+Asia,China,Wind energy,Onshore wind energy,,,356848.155
+Asia,China,Wind energy,Offshore wind energy,,,9112.079
+Asia,Chinese Taipei,Nuclear,Nuclear,,,27682.4
+Asia,Chinese Taipei,Bioenergy,Biogas,,,23.208
+Asia,Chinese Taipei,Bioenergy,Solid biofuels,,,150.292
+Asia,Chinese Taipei,Bioenergy,Renewable municipal waste,,,1784.85
+Asia,Chinese Taipei,Hydropower (excl. Pumped Storage),Renewable hydropower,,,4468.4
+Asia,Chinese Taipei,Solar energy,On-grid Solar photovoltaic,,,2739.6
+Asia,Chinese Taipei,Wind energy,Onshore wind energy,,,1667
+Asia,Chinese Taipei,Wind energy,Offshore wind energy,,,18.9
+Asia,Democratic People's Republic of Korea,Hydropower (excl. Pumped Storage),Renewable hydropower,,,12800
+Asia,Democratic People's Republic of Korea,Solar energy,Off-grid Solar photovoltaic,,,48.736
+Asia,Democratic People's Republic of Korea,Wind energy,Onshore wind energy,,,1.05
+Asia,India,Nuclear,Nuclear,,,38212.84
+Asia,India,Bioenergy,Biogas,,,13.403
+Asia,India,Bioenergy,Biogas,,,15.418
+Asia,India,Bioenergy,Solid biofuels,,,2275.5
+Asia,India,Bioenergy,Solid biofuels,,,15505.43
+Asia,India,Bioenergy,Renewable municipal waste,,,187.579
+Asia,India,Hydropower (excl. Pumped Storage),Renewable hydropower,,,230.952
+Asia,India,Hydropower (excl. Pumped Storage),Renewable hydropower,,,131418.748
+Asia,India,Solar energy,Concentrated solar power,,,360.299
+Asia,India,Solar energy,Off-grid Solar photovoltaic,,,1486.152
+Asia,India,Solar energy,On-grid Solar photovoltaic,,,29220.352
+Asia,India,Wind energy,Onshore wind energy,,,55008.662
+Asia,Indonesia,Bioenergy,Biogas,,,23.652
+Asia,Indonesia,Bioenergy,Biogas,,,33.638
+Asia,Indonesia,Bioenergy,Solid biofuels,,,8937.48
+Asia,Indonesia,Bioenergy,Solid biofuels,,,591.362
+Asia,Indonesia,Bioenergy,Renewable municipal waste,,,3
+Asia,Indonesia,Geothermal energy,Geothermal energy,,,13295.81
+Asia,Indonesia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,46.523
+Asia,Indonesia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,17375.68
+Asia,Indonesia,Solar energy,Off-grid Solar photovoltaic,,,90.619
+Asia,Indonesia,Solar energy,On-grid Solar photovoltaic,,,29.56
+Asia,Indonesia,Wind energy,Onshore wind energy,,,5.7
+Asia,Japan,Nuclear,Nuclear,,,64929.209
+Asia,Japan,Bioenergy,Biogas,,,151.2
+Asia,Japan,Bioenergy,Solid biofuels,,,21094.56
+Asia,Japan,Bioenergy,Renewable municipal waste,,,1830.6
+Asia,Japan,Geothermal energy,Geothermal energy,,,2457
+Asia,Japan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,80968.394
+Asia,Japan,Solar energy,On-grid Solar photovoltaic,,,62667.671
+Asia,Japan,Wind energy,Onshore wind energy,,,7376.228
+Asia,Japan,Wind energy,Offshore wind energy,,,105
+Asia,Kazakhstan,Bioenergy,Biogas,,,32.246
+Asia,Kazakhstan,Bioenergy,Solid biofuels,,,25.535
+Asia,Kazakhstan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,10395.354
+Asia,Kazakhstan,Solar energy,Off-grid Solar photovoltaic,,,243.178
+Asia,Kazakhstan,Solar energy,On-grid Solar photovoltaic,,,141.311
+Asia,Kazakhstan,Wind energy,Onshore wind energy,,,460.583
+Asia,Kyrgyzstan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,14318.3
+Asia,Lao People's Democratic Republic,Bioenergy,Solid biofuels,,,45.83
+Asia,Lao People's Democratic Republic,Hydropower (excl. Pumped Storage),Renewable hydropower,,,8.1
+Asia,Lao People's Democratic Republic,Hydropower (excl. Pumped Storage),Renewable hydropower,,,21161.625
+Asia,Lao People's Democratic Republic,Solar energy,Off-grid Solar photovoltaic,,,2.229
+Asia,Lao People's Democratic Republic,Solar energy,On-grid Solar photovoltaic,,,17.167
+Asia,Malaysia,Bioenergy,Biogas,,,224.43
+Asia,Malaysia,Bioenergy,Solid biofuels,,,1334.28
+Asia,Malaysia,Bioenergy,Solid biofuels,,,173.557
+Asia,Malaysia,Bioenergy,Renewable municipal waste,,,24.223
+Asia,Malaysia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,0.788
+Asia,Malaysia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,26295
+Asia,Malaysia,Solar energy,Off-grid Solar photovoltaic,,,9.157
+Asia,Malaysia,Solar energy,On-grid Solar photovoltaic,,,430.51
+Asia,Maldives,Solar energy,Off-grid Solar photovoltaic,,,14.296
+Asia,Maldives,Wind energy,Onshore wind energy,,,2.465
+Asia,Mongolia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1.991
+Asia,Mongolia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,78.7
+Asia,Mongolia,Solar energy,Off-grid Solar photovoltaic,,,7.794
+Asia,Mongolia,Solar energy,On-grid Solar photovoltaic,,,51.1
+Asia,Mongolia,Wind energy,Onshore wind energy,,,1.007
+Asia,Mongolia,Wind energy,Onshore wind energy,,,339
+Asia,Myanmar,Bioenergy,Biogas,,,2.044
+Asia,Myanmar,Bioenergy,Solid biofuels,,,19.954
+Asia,Myanmar,Bioenergy,Renewable municipal waste,,,1.332
+Asia,Myanmar,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1.25
+Asia,Myanmar,Hydropower (excl. Pumped Storage),Renewable hydropower,,,12412.42
+Asia,Myanmar,Solar energy,Off-grid Solar photovoltaic,,,69.886
+Asia,Myanmar,Wind energy,Onshore wind energy,,,0.02
+Asia,Nepal,Hydropower (excl. Pumped Storage),Renewable hydropower,,,244.842
+Asia,Nepal,Hydropower (excl. Pumped Storage),Renewable hydropower,,,4607.02
+Asia,Nepal,Solar energy,Off-grid Solar photovoltaic,,,75.207
+Asia,Nepal,Solar energy,On-grid Solar photovoltaic,,,2.402
+Asia,Nepal,Wind energy,Onshore wind energy,,,0.296
+Asia,Pakistan,Nuclear,Nuclear,,,9131
+Asia,Pakistan,Bioenergy,Biogas,,,18.944
+Asia,Pakistan,Bioenergy,Solid biofuels,,,3005.453
+Asia,Pakistan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,52.826
+Asia,Pakistan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,33397.116
+Asia,Pakistan,Solar energy,Off-grid Solar photovoltaic,,,17.411
+Asia,Pakistan,Solar energy,On-grid Solar photovoltaic,,,1528
+Asia,Pakistan,Wind energy,Onshore wind energy,,,0.272
+Asia,Pakistan,Wind energy,Onshore wind energy,,,2650.453
+Asia,Philippines,Bioenergy,Biogas,,,104.524
+Asia,Philippines,Bioenergy,Biogas,,,16.218
+Asia,Philippines,Bioenergy,Solid biofuels,,,1088.605
+Asia,Philippines,Geothermal energy,Geothermal energy,,,10435.305
+Asia,Philippines,Hydropower (excl. Pumped Storage),Renewable hydropower,,,64.787
+Asia,Philippines,Hydropower (excl. Pumped Storage),Renewable hydropower,,,8596.971
+Asia,Philippines,Solar energy,Off-grid Solar photovoltaic,,,1.491
+Asia,Philippines,Solar energy,On-grid Solar photovoltaic,,,1249.116
+Asia,Philippines,Wind energy,Onshore wind energy,,,1152.923
+Asia,Republic of Korea,Nuclear,Nuclear,,,133505.261
+Asia,Republic of Korea,Bioenergy,Biogas,,,556.64
+Asia,Republic of Korea,Bioenergy,Solid biofuels,,,5231.13
+Asia,Republic of Korea,Bioenergy,Liquid biofuels,,,1609.999
+Asia,Republic of Korea,Bioenergy,Renewable municipal waste,,,174.42
+Asia,Republic of Korea,Hydropower (excl. Pumped Storage),Renewable hydropower,,,3359.418
+Asia,Republic of Korea,Solar energy,On-grid Solar photovoltaic,,,9208.099
+Asia,Republic of Korea,Wind energy,Onshore wind energy,,,2372.636
+Asia,Republic of Korea,Wind energy,Offshore wind energy,,,92.243
+Asia,Singapore,Bioenergy,Solid biofuels,,,425.3
+Asia,Singapore,Bioenergy,Renewable municipal waste,,,1584.35
+Asia,Singapore,Solar energy,On-grid Solar photovoltaic,,,171
+Asia,Singapore,Wind energy,Onshore wind energy,,,0.35
+Asia,Sri Lanka,Bioenergy,Solid biofuels,,,56.029
+Asia,Sri Lanka,Hydropower (excl. Pumped Storage),Renewable hydropower,,,7.491
+Asia,Sri Lanka,Hydropower (excl. Pumped Storage),Renewable hydropower,,,6381
+Asia,Sri Lanka,Solar energy,Off-grid Solar photovoltaic,,,11.694
+Asia,Sri Lanka,Solar energy,On-grid Solar photovoltaic,,,128.971
+Asia,Sri Lanka,Wind energy,Onshore wind energy,,,326.3
+Asia,Tajikistan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,178.875
+Asia,Tajikistan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,18394.4
+Asia,Thailand,Bioenergy,Biogas,,,2328.716
+Asia,Thailand,Bioenergy,Solid biofuels,,,26257.941
+Asia,Thailand,Bioenergy,Renewable municipal waste,,,118.113
+Asia,Thailand,Geothermal energy,Geothermal energy,,,1
+Asia,Thailand,Hydropower (excl. Pumped Storage),Renewable hydropower,,,7783
+Asia,Thailand,Solar energy,On-grid Solar photovoltaic,,,4537
+Asia,Thailand,Wind energy,Onshore wind energy,,,1641
+Asia,Timor-Leste,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1.5
+Asia,Timor-Leste,Solar energy,Off-grid Solar photovoltaic,,,0.936
+Asia,Turkmenistan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,3.154
+Asia,Uzbekistan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,5897.3
+Asia,Uzbekistan,Solar energy,Off-grid Solar photovoltaic,,,6.637
+Asia,Uzbekistan,Solar energy,On-grid Solar photovoltaic,,,0.19
+Asia,Viet Nam,Bioenergy,Biogas,,,0.85
+Asia,Viet Nam,Bioenergy,Solid biofuels,,,397.448
+Asia,Viet Nam,Bioenergy,Renewable municipal waste,,,41.917
+Asia,Viet Nam,Hydropower (excl. Pumped Storage),Renewable hydropower,,,113.004
+Asia,Viet Nam,Hydropower (excl. Pumped Storage),Renewable hydropower,,,84984
+Asia,Viet Nam,Solar energy,Off-grid Solar photovoltaic,,,5.228
+Asia,Viet Nam,Solar energy,On-grid Solar photovoltaic,,,100.502
+Asia,Viet Nam,Wind energy,Onshore wind energy,,,7.2
+Asia,Viet Nam,Wind energy,Onshore wind energy,,,172.791
+Asia,Viet Nam,Wind energy,Offshore wind energy,,,130.349
+Central America and the Caribbean,Anguilla,Solar energy,On-grid Solar photovoltaic,,,1.985
+Central America and the Caribbean,Antigua and Barbuda,Solar energy,On-grid Solar photovoltaic,,,13.073
+Central America and the Caribbean,Aruba,Bioenergy,Renewable municipal waste,,,0
+Central America and the Caribbean,Aruba,Solar energy,On-grid Solar photovoltaic,,,10.712
+Central America and the Caribbean,Aruba,Wind energy,Onshore wind energy,,,136.392
+Central America and the Caribbean,Bahamas,Solar energy,Off-grid Solar photovoltaic,,,0.139
+Central America and the Caribbean,Bahamas,Solar energy,On-grid Solar photovoltaic,,,3.354
+Central America and the Caribbean,Barbados,Solar energy,On-grid Solar photovoltaic,,,37.296
+Central America and the Caribbean,Barbados,Wind energy,Onshore wind energy,,,0.056
+Central America and the Caribbean,Belize,Bioenergy,Solid biofuels,,,136.523
+Central America and the Caribbean,Belize,Hydropower (excl. Pumped Storage),Renewable hydropower,,,249.696
+Central America and the Caribbean,Belize,Solar energy,Off-grid Solar photovoltaic,,,0.037
+Central America and the Caribbean,Belize,Solar energy,On-grid Solar photovoltaic,,,1.025
+Central America and the Caribbean,"Bonaire, Sint Eustatius and Saba",Solar energy,On-grid Solar photovoltaic,,,8.441
+Central America and the Caribbean,"Bonaire, Sint Eustatius and Saba",Wind energy,Onshore wind energy,,,37.1
+Central America and the Caribbean,British Virgin Islands,Solar energy,On-grid Solar photovoltaic,,,0.308
+Central America and the Caribbean,British Virgin Islands,Wind energy,Onshore wind energy,,,1.25
+Central America and the Caribbean,Cayman Islands,Solar energy,On-grid Solar photovoltaic,,,16.165
+Central America and the Caribbean,Costa Rica,Bioenergy,Biogas,,,9.608
+Central America and the Caribbean,Costa Rica,Bioenergy,Solid biofuels,,,76.668
+Central America and the Caribbean,Costa Rica,Geothermal energy,Geothermal energy,,,968.571
+Central America and the Caribbean,Costa Rica,Hydropower (excl. Pumped Storage),Renewable hydropower,,,8342.897
+Central America and the Caribbean,Costa Rica,Solar energy,On-grid Solar photovoltaic,,,9.891
+Central America and the Caribbean,Costa Rica,Wind energy,Onshore wind energy,,,1798.875
+Central America and the Caribbean,Cuba,Bioenergy,Solid biofuels,,,444
+Central America and the Caribbean,Cuba,Hydropower (excl. Pumped Storage),Renewable hydropower,,,145.5
+Central America and the Caribbean,Cuba,Solar energy,Off-grid Solar photovoltaic,,,1.344
+Central America and the Caribbean,Cuba,Solar energy,On-grid Solar photovoltaic,,,160.494
+Central America and the Caribbean,Cuba,Wind energy,Onshore wind energy,,,19.771
+Central America and the Caribbean,Curaçao,Solar energy,On-grid Solar photovoltaic,,,18.854
+Central America and the Caribbean,Curaçao,Wind energy,Onshore wind energy,,,233.761
+Central America and the Caribbean,Dominica,Hydropower (excl. Pumped Storage),Renewable hydropower,,,24.18
+Central America and the Caribbean,Dominica,Solar energy,On-grid Solar photovoltaic,,,0.178
+Central America and the Caribbean,Dominica,Wind energy,Onshore wind energy,,,0.595
+Central America and the Caribbean,Dominican Republic,Bioenergy,Biogas,,,15.704
+Central America and the Caribbean,Dominican Republic,Bioenergy,Solid biofuels,,,62.201
+Central America and the Caribbean,Dominican Republic,Bioenergy,Solid biofuels,,,161.831
+Central America and the Caribbean,Dominican Republic,Hydropower (excl. Pumped Storage),Renewable hydropower,,,6.691
+Central America and the Caribbean,Dominican Republic,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1772.825
+Central America and the Caribbean,Dominican Republic,Solar energy,Off-grid Solar photovoltaic,,,28.251
+Central America and the Caribbean,Dominican Republic,Solar energy,On-grid Solar photovoltaic,,,202.194
+Central America and the Caribbean,Dominican Republic,Wind energy,Onshore wind energy,,,497.48
+Central America and the Caribbean,El Salvador,Bioenergy,Biogas,,,30.608
+Central America and the Caribbean,El Salvador,Bioenergy,Solid biofuels,,,709.513
+Central America and the Caribbean,El Salvador,Geothermal energy,Geothermal energy,,,1545.277
+Central America and the Caribbean,El Salvador,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1631.34
+Central America and the Caribbean,El Salvador,Solar energy,Off-grid Solar photovoltaic,,,24.282
+Central America and the Caribbean,El Salvador,Solar energy,On-grid Solar photovoltaic,,,285.009
+Central America and the Caribbean,Grenada,Solar energy,On-grid Solar photovoltaic,,,3.295
+Central America and the Caribbean,Grenada,Wind energy,Onshore wind energy,,,0
+Central America and the Caribbean,Grenada,Wind energy,Onshore wind energy,,,0.224
+Central America and the Caribbean,Guadeloupe,Bioenergy,Biogas,,,11.754
+Central America and the Caribbean,Guadeloupe,Bioenergy,Solid biofuels,,,55.755
+Central America and the Caribbean,Guadeloupe,Geothermal energy,Geothermal energy,,,106.794
+Central America and the Caribbean,Guadeloupe,Hydropower (excl. Pumped Storage),Renewable hydropower,,,40.332
+Central America and the Caribbean,Guadeloupe,Solar energy,On-grid Solar photovoltaic,,,94.836
+Central America and the Caribbean,Guadeloupe,Wind energy,Onshore wind energy,,,52.424
+Central America and the Caribbean,Guatemala,Bioenergy,Biogas,,,26.327
+Central America and the Caribbean,Guatemala,Bioenergy,Solid biofuels,,,2765.607
+Central America and the Caribbean,Guatemala,Geothermal energy,Geothermal energy,,,249.754
+Central America and the Caribbean,Guatemala,Hydropower (excl. Pumped Storage),Renewable hydropower,,,5190.985
+Central America and the Caribbean,Guatemala,Solar energy,Off-grid Solar photovoltaic,,,11.54
+Central America and the Caribbean,Guatemala,Solar energy,On-grid Solar photovoltaic,,,208.313
+Central America and the Caribbean,Guatemala,Wind energy,Onshore wind energy,,,319.501
+Central America and the Caribbean,Haiti,Hydropower (excl. Pumped Storage),Renewable hydropower,,,98.247
+Central America and the Caribbean,Haiti,Solar energy,Off-grid Solar photovoltaic,,,2.207
+Central America and the Caribbean,Haiti,Solar energy,On-grid Solar photovoltaic,,,2.044
+Central America and the Caribbean,Haiti,Wind energy,Onshore wind energy,,,0.065
+Central America and the Caribbean,Honduras,Bioenergy,Biogas,,,0.037
+Central America and the Caribbean,Honduras,Bioenergy,Biogas,,,4.917
+Central America and the Caribbean,Honduras,Bioenergy,Solid biofuels,,,689.724
+Central America and the Caribbean,Honduras,Geothermal energy,Geothermal energy,,,297.068
+Central America and the Caribbean,Honduras,Hydropower (excl. Pumped Storage),Renewable hydropower,,,0.301
+Central America and the Caribbean,Honduras,Hydropower (excl. Pumped Storage),Renewable hydropower,,,3157.543
+Central America and the Caribbean,Honduras,Solar energy,Off-grid Solar photovoltaic,,,3.987
+Central America and the Caribbean,Honduras,Solar energy,On-grid Solar photovoltaic,,,992.785
+Central America and the Caribbean,Honduras,Wind energy,Onshore wind energy,,,928.705
+Central America and the Caribbean,Jamaica,Bioenergy,Solid biofuels,,,12.787
+Central America and the Caribbean,Jamaica,Hydropower (excl. Pumped Storage),Renewable hydropower,,,179.154
+Central America and the Caribbean,Jamaica,Solar energy,On-grid Solar photovoltaic,,,46
+Central America and the Caribbean,Jamaica,Wind energy,Onshore wind energy,,,302
+Central America and the Caribbean,Martinique,Bioenergy,Biogas,,,1.3
+Central America and the Caribbean,Martinique,Bioenergy,Solid biofuels,,,65.515
+Central America and the Caribbean,Martinique,Bioenergy,Renewable municipal waste,,,23.434
+Central America and the Caribbean,Martinique,Solar energy,On-grid Solar photovoltaic,,,72.801
+Central America and the Caribbean,Martinique,Wind energy,Onshore wind energy,,,5.841
+Central America and the Caribbean,Nicaragua,Bioenergy,Solid biofuels,,,701.697
+Central America and the Caribbean,Nicaragua,Geothermal energy,Geothermal energy,,,801.395
+Central America and the Caribbean,Nicaragua,Hydropower (excl. Pumped Storage),Renewable hydropower,,,410.892
+Central America and the Caribbean,Nicaragua,Solar energy,On-grid Solar photovoltaic,,,23.985
+Central America and the Caribbean,Nicaragua,Wind energy,Onshore wind energy,,,800.592
+Central America and the Caribbean,Panama,Bioenergy,Biogas,,,17.624
+Central America and the Caribbean,Panama,Bioenergy,Solid biofuels,,,32.227
+Central America and the Caribbean,Panama,Hydropower (excl. Pumped Storage),Renewable hydropower,,,7855.172
+Central America and the Caribbean,Panama,Solar energy,Off-grid Solar photovoltaic,,,5.155
+Central America and the Caribbean,Panama,Solar energy,On-grid Solar photovoltaic,,,232.64
+Central America and the Caribbean,Panama,Wind energy,Onshore wind energy,,,587.878
+Central America and the Caribbean,Puerto Rico,Bioenergy,Biogas,,,10.57
+Central America and the Caribbean,Puerto Rico,Hydropower (excl. Pumped Storage),Renewable hydropower,,,38.059
+Central America and the Caribbean,Puerto Rico,Solar energy,Off-grid Solar photovoltaic,,,0.152
+Central America and the Caribbean,Puerto Rico,Solar energy,On-grid Solar photovoltaic,,,80.82
+Central America and the Caribbean,Puerto Rico,Wind energy,Onshore wind energy,,,108.07
+Central America and the Caribbean,Saint Barthélemy,Solar energy,On-grid Solar photovoltaic,,,0.041
+Central America and the Caribbean,Saint Kitts and Nevis,Solar energy,On-grid Solar photovoltaic,,,3.063
+Central America and the Caribbean,Saint Kitts and Nevis,Wind energy,Onshore wind energy,,,7.6
+Central America and the Caribbean,Saint Lucia,Solar energy,On-grid Solar photovoltaic,,,3.162
+Central America and the Caribbean,Saint Martin (French Part),Solar energy,On-grid Solar photovoltaic,,,0.165
+Central America and the Caribbean,Saint Vincent and the Grenadines,Hydropower (excl. Pumped Storage),Renewable hydropower,,,15.932
+Central America and the Caribbean,Saint Vincent and the Grenadines,Solar energy,On-grid Solar photovoltaic,,,1.974
+Central America and the Caribbean,Trinidad and Tobago,Solar energy,On-grid Solar photovoltaic,,,4.671
+Central America and the Caribbean,Trinidad and Tobago,Wind energy,Onshore wind energy,,,0.027
+Central America and the Caribbean,Turks and Caicos Islands,Solar energy,On-grid Solar photovoltaic,,,0.686
+Central America and the Caribbean,United States Virgin Islands,Solar energy,On-grid Solar photovoltaic,,,7.24
+Central America and the Caribbean,United States Virgin Islands,Wind energy,Onshore wind energy,,,0.272
+Eurasia,Armenia,Nuclear,Nuclear,,,2619.6
+Eurasia,Armenia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,2317.86
+Eurasia,Armenia,Solar energy,On-grid Solar photovoltaic,,,19.771
+Eurasia,Armenia,Wind energy,Onshore wind energy,,,2.326
+Eurasia,Azerbaijan,Bioenergy,Biogas,,,0.001
+Eurasia,Azerbaijan,Bioenergy,Renewable municipal waste,,,162.2
+Eurasia,Azerbaijan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1768
+Eurasia,Azerbaijan,Solar energy,On-grid Solar photovoltaic,,,39.3
+Eurasia,Azerbaijan,Wind energy,Onshore wind energy,,,82.7
+Eurasia,Georgia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,9949.4
+Eurasia,Georgia,Wind energy,Onshore wind energy,,,84.3
+Eurasia,Russian Federation,Nuclear,Nuclear,,,204569.141
+Eurasia,Russian Federation,Bioenergy,Solid biofuels,,,72.517
+Eurasia,Russian Federation,Geothermal energy,Geothermal energy,,,426.343
+Eurasia,Russian Federation,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1213.873
+Eurasia,Russian Federation,Hydropower (excl. Pumped Storage),Renewable hydropower,,,191141.81
+Eurasia,Russian Federation,Solar energy,On-grid Solar photovoltaic,,,459.946
+Eurasia,Russian Federation,Wind energy,Onshore wind energy,,,76.812
+Eurasia,Turkey,Bioenergy,Biogas,,,2158.612
+Eurasia,Turkey,Bioenergy,Solid biofuels,,,474.39
+Eurasia,Turkey,Bioenergy,Liquid biofuels,,,5.061
+Eurasia,Turkey,Bioenergy,Renewable municipal waste,,,11.452
+Eurasia,Turkey,Geothermal energy,Geothermal energy,,,7430.976
+Eurasia,Turkey,Hydropower (excl. Pumped Storage),Renewable hydropower,,,59938.425
+Eurasia,Turkey,Solar energy,Concentrated solar power,,,3.066
+Eurasia,Turkey,Solar energy,On-grid Solar photovoltaic,,,7799.798
+Eurasia,Turkey,Wind energy,Onshore wind energy,,,19949.196
+Europe,Albania,Hydropower (excl. Pumped Storage),Renewable hydropower,,,8552.152
+Europe,Albania,Solar energy,On-grid Solar photovoltaic,,,1.334
+Europe,Andorra,Bioenergy,Renewable municipal waste,,,20.513
+Europe,Andorra,Hydropower (excl. Pumped Storage),Renewable hydropower,,,114.358
+Europe,Andorra,Solar energy,On-grid Solar photovoltaic,,,0.858
+Europe,Austria,Bioenergy,Biogas,,,628.313
+Europe,Austria,Bioenergy,Solid biofuels,,,3965.583
+Europe,Austria,Bioenergy,Liquid biofuels,,,0.096
+Europe,Austria,Bioenergy,Renewable municipal waste,,,335.804
+Europe,Austria,Geothermal energy,Geothermal energy,,,0.239
+Europe,Austria,Hydropower (excl. Pumped Storage),Renewable hydropower,,,37637.91
+Europe,Austria,Solar energy,Off-grid Solar photovoltaic,,,7.175
+Europe,Austria,Solar energy,On-grid Solar photovoltaic,,,1430.466
+Europe,Austria,Wind energy,Onshore wind energy,,,6030.429
+Europe,Belarus,Bioenergy,Biogas,,,43
+Europe,Belarus,Bioenergy,Solid biofuels,,,131
+Europe,Belarus,Hydropower (excl. Pumped Storage),Renewable hydropower,,,324
+Europe,Belarus,Solar energy,On-grid Solar photovoltaic,,,177
+Europe,Belarus,Wind energy,Onshore wind energy,,,152.5
+Europe,Belgium,Nuclear,Nuclear,,,28597
+Europe,Belgium,Bioenergy,Biogas,,,944.7
+Europe,Belgium,Bioenergy,Solid biofuels,,,3484.3
+Europe,Belgium,Bioenergy,Liquid biofuels,,,74.2
+Europe,Belgium,Bioenergy,Renewable municipal waste,,,967.6
+Europe,Belgium,Hydropower (excl. Pumped Storage),Renewable hydropower,,,313.5
+Europe,Belgium,Solar energy,On-grid Solar photovoltaic,,,3901.8
+Europe,Belgium,Wind energy,Onshore wind energy,,,4153.7
+Europe,Belgium,Wind energy,Offshore wind energy,,,3311
+Europe,Bosnia and Herzegovina,Bioenergy,Biogas,,,7
+Europe,Bosnia and Herzegovina,Bioenergy,Solid biofuels,,,1
+Europe,Bosnia and Herzegovina,Hydropower (excl. Pumped Storage),Renewable hydropower,,,6418
+Europe,Bosnia and Herzegovina,Solar energy,On-grid Solar photovoltaic,,,21
+Europe,Bosnia and Herzegovina,Wind energy,Onshore wind energy,,,103
+Europe,Bulgaria,Nuclear,Nuclear,,,16125.281
+Europe,Bulgaria,Bioenergy,Biogas,,,212.293
+Europe,Bulgaria,Bioenergy,Solid biofuels,,,1280.035
+Europe,Bulgaria,Hydropower (excl. Pumped Storage),Renewable hydropower,,,5146.578
+Europe,Bulgaria,Solar energy,On-grid Solar photovoltaic,,,1342.775
+Europe,Bulgaria,Wind energy,Onshore wind energy,,,1318.123
+Europe,Croatia,Bioenergy,Biogas,,,354.9
+Europe,Croatia,Bioenergy,Solid biofuels,,,313.2
+Europe,Croatia,Geothermal energy,Geothermal energy,,,2
+Europe,Croatia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,7700.9
+Europe,Croatia,Solar energy,On-grid Solar photovoltaic,,,74.9
+Europe,Croatia,Wind energy,Onshore wind energy,,,1335.4
+Europe,Cyprus,Bioenergy,Biogas,,,56.896
+Europe,Cyprus,Solar energy,On-grid Solar photovoltaic,,,199.493
+Europe,Cyprus,Wind energy,Onshore wind energy,,,221.04
+Europe,Czechia,Nuclear,Nuclear,,,29921.311
+Europe,Czechia,Bioenergy,Biogas,,,2607.205
+Europe,Czechia,Bioenergy,Solid biofuels,,,2120.884
+Europe,Czechia,Bioenergy,Renewable municipal waste,,,100.189
+Europe,Czechia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1628.83
+Europe,Czechia,Solar energy,On-grid Solar photovoltaic,,,2358.881
+Europe,Czechia,Wind energy,Onshore wind energy,,,609.33
+Europe,Denmark,Bioenergy,Biogas,,,619.795
+Europe,Denmark,Bioenergy,Solid biofuels,,,4417.779
+Europe,Denmark,Bioenergy,Liquid biofuels,,,1.423
+Europe,Denmark,Bioenergy,Renewable municipal waste,,,860.074
+Europe,Denmark,Hydropower (excl. Pumped Storage),Renewable hydropower,,,14.862
+Europe,Denmark,Solar energy,On-grid Solar photovoltaic,,,952.973
+Europe,Denmark,Wind energy,Onshore wind energy,,,9268.663
+Europe,Denmark,Wind energy,Offshore wind energy,,,4630.14
+Europe,Estonia,Bioenergy,Biogas,,,38
+Europe,Estonia,Bioenergy,Solid biofuels,,,1223
+Europe,Estonia,Bioenergy,Renewable municipal waste,,,46
+Europe,Estonia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,15
+Europe,Estonia,Solar energy,On-grid Solar photovoltaic,,,30.802
+Europe,Estonia,Wind energy,Onshore wind energy,,,636
+Europe,Faroe Islands,Hydropower (excl. Pumped Storage),Renewable hydropower,,,108.1
+Europe,Faroe Islands,Wind energy,Onshore wind energy,,,63.8
+Europe,Finland,Nuclear,Nuclear,,,22793
+Europe,Finland,Bioenergy,Biogas,,,419.691
+Europe,Finland,Bioenergy,Solid biofuels,,,11821.361
+Europe,Finland,Bioenergy,Liquid biofuels,,,6.904
+Europe,Finland,Bioenergy,Renewable municipal waste,,,662.269
+Europe,Finland,Hydropower (excl. Pumped Storage),Renewable hydropower,,,13301.104
+Europe,Finland,Solar energy,On-grid Solar photovoltaic,,,90.225
+Europe,Finland,Wind energy,Onshore wind energy,,,5695.54
+Europe,Finland,Wind energy,Offshore wind energy,,,143.128
+Europe,France,Nuclear,Nuclear,,,412941.812
+Europe,France,Bioenergy,Biogas,,,2364.766
+Europe,France,Bioenergy,Solid biofuels,,,3766.781
+Europe,France,Bioenergy,Liquid biofuels,,,0.163
+Europe,France,Bioenergy,Renewable municipal waste,,,2203.711
+Europe,France,Geothermal energy,Geothermal energy,,,129.731
+Europe,France,Hydropower (excl. Pumped Storage),Renewable hydropower,,,65284.601
+Europe,France,Solar energy,On-grid Solar photovoltaic,,,10568.737
+Europe,France,Wind energy,Onshore wind energy,,,28599.041
+Europe,Germany,Nuclear,Nuclear,,,76005
+Europe,Germany,Bioenergy,Biogas,,,33416
+Europe,Germany,Bioenergy,Solid biofuels,,,10827
+Europe,Germany,Bioenergy,Liquid biofuels,,,474
+Europe,Germany,Bioenergy,Renewable municipal waste,,,6163
+Europe,Germany,Geothermal energy,Geothermal energy,,,178
+Europe,Germany,Hydropower (excl. Pumped Storage),Renewable hydropower,,,17975
+Europe,Germany,Solar energy,On-grid Solar photovoltaic,,,45784
+Europe,Germany,Wind energy,Onshore wind energy,,,90484
+Europe,Germany,Wind energy,Offshore wind energy,,,19467
+Europe,Greece,Bioenergy,Biogas,,,302.131
+Europe,Greece,Bioenergy,Solid biofuels,,,11.939
+Europe,Greece,Hydropower (excl. Pumped Storage),Renewable hydropower,,,5743.448
+Europe,Greece,Solar energy,On-grid Solar photovoltaic,,,3790.652
+Europe,Greece,Wind energy,Onshore wind energy,,,6300.259
+Europe,Hungary,Nuclear,Nuclear,,,15733
+Europe,Hungary,Bioenergy,Biogas,,,331
+Europe,Hungary,Bioenergy,Solid biofuels,,,1799
+Europe,Hungary,Bioenergy,Renewable municipal waste,,,162
+Europe,Hungary,Geothermal energy,Geothermal energy,,,12
+Europe,Hungary,Hydropower (excl. Pumped Storage),Renewable hydropower,,,222
+Europe,Hungary,Solar energy,On-grid Solar photovoltaic,,,620
+Europe,Hungary,Wind energy,Onshore wind energy,,,607
+Europe,Iceland,Geothermal energy,Geothermal energy,,,6009.834
+Europe,Iceland,Hydropower (excl. Pumped Storage),Renewable hydropower,,,13813.688
+Europe,Iceland,Wind energy,Onshore wind energy,,,4.363
+Europe,Ireland,Bioenergy,Biogas,,,184.092
+Europe,Ireland,Bioenergy,Solid biofuels,,,329.81
+Europe,Ireland,Bioenergy,Renewable municipal waste,,,330.156
+Europe,Ireland,Hydropower (excl. Pumped Storage),Renewable hydropower,,,694.09
+Europe,Ireland,Solar energy,Off-grid Solar photovoltaic,,,16.656
+Europe,Ireland,Wind energy,Onshore wind energy,,,8558.767
+Europe,Ireland,Wind energy,Offshore wind energy,,,81
+Europe,Italy,Bioenergy,Biogas,,,8299.564
+Europe,Italy,Bioenergy,Solid biofuels,,,4191.39
+Europe,Italy,Bioenergy,Liquid biofuels,,,4290.708
+Europe,Italy,Bioenergy,Renewable municipal waste,,,2370.926
+Europe,Italy,Geothermal energy,Geothermal energy,,,6105.39
+Europe,Italy,Hydropower (excl. Pumped Storage),Renewable hydropower,,,48786.414
+Europe,Italy,Solar energy,Concentrated solar power,,,12.475
+Europe,Italy,Solar energy,On-grid Solar photovoltaic,,,22653.838
+Europe,Italy,Wind energy,Onshore wind energy,,,17716.434
+Europe,Kosovo*,Hydropower (excl. Pumped Storage),Renewable hydropower,,,272.652
+Europe,Kosovo*,Solar energy,On-grid Solar photovoltaic,,,2.031
+Europe,Kosovo*,Wind energy,Onshore wind energy,,,29.753
+Europe,Latvia,Bioenergy,Biogas,,,374.06
+Europe,Latvia,Bioenergy,Solid biofuels,,,569.565
+Europe,Latvia,Bioenergy,Liquid biofuels,,,0.09
+Europe,Latvia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,2431.569
+Europe,Latvia,Solar energy,On-grid Solar photovoltaic,,,1.273
+Europe,Latvia,Wind energy,Onshore wind energy,,,122.038
+Europe,Lithuania,Bioenergy,Biogas,,,139.9
+Europe,Lithuania,Bioenergy,Solid biofuels,,,355.1
+Europe,Lithuania,Bioenergy,Renewable municipal waste,,,48
+Europe,Lithuania,Hydropower (excl. Pumped Storage),Renewable hydropower,,,431
+Europe,Lithuania,Solar energy,Off-grid Solar photovoltaic,,,10.561
+Europe,Lithuania,Solar energy,On-grid Solar photovoltaic,,,76.039
+Europe,Lithuania,Wind energy,Onshore wind energy,,,1144
+Europe,Luxembourg,Bioenergy,Biogas,,,75.463
+Europe,Luxembourg,Bioenergy,Solid biofuels,,,95.17
+Europe,Luxembourg,Bioenergy,Renewable municipal waste,,,46.769
+Europe,Luxembourg,Hydropower (excl. Pumped Storage),Renewable hydropower,,,92.778
+Europe,Luxembourg,Solar energy,On-grid Solar photovoltaic,,,119.725
+Europe,Luxembourg,Wind energy,Onshore wind energy,,,254.575
+Europe,Malta,Bioenergy,Biogas,,,8.952
+Europe,Malta,Solar energy,On-grid Solar photovoltaic,,,189.576
+Europe,Malta,Wind energy,Onshore wind energy,,,0.058
+Europe,Montenegro,Hydropower (excl. Pumped Storage),Renewable hydropower,,,2113
+Europe,Montenegro,Solar energy,On-grid Solar photovoltaic,,,4.49
+Europe,Montenegro,Wind energy,Onshore wind energy,,,143
+Europe,Netherlands,Nuclear,Nuclear,,,3514.77
+Europe,Netherlands,Bioenergy,Biogas,,,886.927
+Europe,Netherlands,Bioenergy,Solid biofuels,,,1496.091
+Europe,Netherlands,Bioenergy,Renewable municipal waste,,,2172.21
+Europe,Netherlands,Hydropower (excl. Pumped Storage),Renewable hydropower,,,72.348
+Europe,Netherlands,Solar energy,On-grid Solar photovoltaic,,,3693.094
+Europe,Netherlands,Wind energy,Onshore wind energy,,,6933.647
+Europe,Netherlands,Wind energy,Offshore wind energy,,,3630
+Europe,Norway,Bioenergy,Biogas,,,17.024
+Europe,Norway,Bioenergy,Solid biofuels,,,15.775
+Europe,Norway,Bioenergy,Liquid biofuels,,,0.18
+Europe,Norway,Bioenergy,Renewable municipal waste,,,171.189
+Europe,Norway,Hydropower (excl. Pumped Storage),Renewable hydropower,,,138796.038
+Europe,Norway,Solar energy,On-grid Solar photovoltaic,,,60.876
+Europe,Norway,Wind energy,Onshore wind energy,,,3870.881
+Europe,Norway,Wind energy,Offshore wind energy,,,5
+Europe,Poland,Bioenergy,Biogas,,,1127.623
+Europe,Poland,Bioenergy,Solid biofuels,,,5333.221
+Europe,Poland,Bioenergy,Liquid biofuels,,,35.6
+Europe,Poland,Bioenergy,Renewable municipal waste,,,85.023
+Europe,Poland,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1969.997
+Europe,Poland,Solar energy,On-grid Solar photovoltaic,,,300.488
+Europe,Poland,Wind energy,Onshore wind energy,,,12798.792
+Europe,Portugal,Bioenergy,Biogas,,,271.373
+Europe,Portugal,Bioenergy,Solid biofuels,,,2557.605
+Europe,Portugal,Bioenergy,Renewable municipal waste,,,326.868
+Europe,Portugal,Geothermal energy,Geothermal energy,,,230.387
+Europe,Portugal,Hydropower (excl. Pumped Storage),Renewable hydropower,,,12393.349
+Europe,Portugal,Solar energy,Concentrated solar power,,,17.03
+Europe,Portugal,Solar energy,Off-grid Solar photovoltaic,,,74.73
+Europe,Portugal,Solar energy,On-grid Solar photovoltaic,,,931.166
+Europe,Portugal,Wind energy,Onshore wind energy,,,12616.584
+Europe,Republic of Moldova,Bioenergy,Biogas,,,30
+Europe,Republic of Moldova,Hydropower (excl. Pumped Storage),Renewable hydropower,,,176.825
+Europe,Republic of Moldova,Solar energy,On-grid Solar photovoltaic,,,3
+Europe,Republic of Moldova,Wind energy,Onshore wind energy,,,23
+Europe,Republic of North Macedonia,Bioenergy,Biogas,,,54.05
+Europe,Republic of North Macedonia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1791.366
+Europe,Republic of North Macedonia,Solar energy,On-grid Solar photovoltaic,,,22.789
+Europe,Republic of North Macedonia,Wind energy,Onshore wind energy,,,97.338
+Europe,Romania,Nuclear,Nuclear,,,11377.435
+Europe,Romania,Bioenergy,Biogas,,,70.169
+Europe,Romania,Bioenergy,Solid biofuels,,,366.961
+Europe,Romania,Hydropower (excl. Pumped Storage),Renewable hydropower,,,17664.206
+Europe,Romania,Solar energy,On-grid Solar photovoltaic,,,1771.027
+Europe,Romania,Wind energy,Onshore wind energy,,,6322.219
+Europe,Serbia,Bioenergy,Biogas,,,101.721
+Europe,Serbia,Bioenergy,Solid biofuels,,,1
+Europe,Serbia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,10639.646
+Europe,Serbia,Solar energy,On-grid Solar photovoltaic,,,13.04
+Europe,Serbia,Wind energy,Onshore wind energy,,,150.418
+Europe,Slovakia,Nuclear,Nuclear,,,14843
+Europe,Slovakia,Bioenergy,Biogas,,,539
+Europe,Slovakia,Bioenergy,Solid biofuels,,,1070
+Europe,Slovakia,Bioenergy,Renewable municipal waste,,,16
+Europe,Slovakia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,3590
+Europe,Slovakia,Solar energy,On-grid Solar photovoltaic,,,585
+Europe,Slovakia,Wind energy,Onshore wind energy,,,6
+Europe,Slovenia,Nuclear,Nuclear,,,5776.439
+Europe,Slovenia,Bioenergy,Biogas,,,118.847
+Europe,Slovenia,Bioenergy,Solid biofuels,,,146.129
+Europe,Slovenia,Bioenergy,Liquid biofuels,,,6.29
+Europe,Slovenia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,4704.32
+Europe,Slovenia,Solar energy,On-grid Solar photovoltaic,,,254.961
+Europe,Slovenia,Wind energy,Onshore wind energy,,,6.021
+Europe,Spain,Nuclear,Nuclear,,,55766
+Europe,Spain,Bioenergy,Biogas,,,923
+Europe,Spain,Bioenergy,Solid biofuels,,,4221
+Europe,Spain,Bioenergy,Liquid biofuels,,,12
+Europe,Spain,Bioenergy,Renewable municipal waste,,,755
+Europe,Spain,Hydropower (excl. Pumped Storage),Renewable hydropower,,,34334
+Europe,Spain,Solar energy,Concentrated solar power,,,4867
+Europe,Spain,Solar energy,Off-grid Solar photovoltaic,,,54.44
+Europe,Spain,Solar energy,On-grid Solar photovoltaic,,,7822.56
+Europe,Spain,Wind energy,Onshore wind energy,,,50885
+Europe,Spain,Wind energy,Offshore wind energy,,,11
+Europe,Sweden,Nuclear,Nuclear,,,68549
+Europe,Sweden,Bioenergy,Biogas,,,10
+Europe,Sweden,Bioenergy,Solid biofuels,,,10195
+Europe,Sweden,Bioenergy,Liquid biofuels,,,52
+Europe,Sweden,Bioenergy,Renewable municipal waste,,,1656
+Europe,Sweden,Hydropower (excl. Pumped Storage),Renewable hydropower,,,62210
+Europe,Sweden,Solar energy,Off-grid Solar photovoltaic,,,14.063
+Europe,Sweden,Solar energy,On-grid Solar photovoltaic,,,392.937
+Europe,Sweden,Wind energy,Onshore wind energy,,,15953
+Europe,Sweden,Wind energy,Offshore wind energy,,,670
+Europe,Switzerland,Nuclear,Nuclear,,,24414
+Europe,Switzerland,Bioenergy,Biogas,,,352.6
+Europe,Switzerland,Bioenergy,Solid biofuels,,,317
+Europe,Switzerland,Bioenergy,Renewable municipal waste,,,1163
+Europe,Switzerland,Hydropower (excl. Pumped Storage),Renewable hydropower,,,34851
+Europe,Switzerland,Solar energy,On-grid Solar photovoltaic,,,1945.1
+Europe,Switzerland,Wind energy,Onshore wind energy,,,121.8
+Europe,Ukraine,Nuclear,Nuclear,,,84398.1
+Europe,Ukraine,Bioenergy,Biogas,,,176
+Europe,Ukraine,Bioenergy,Solid biofuels,,,124.501
+Europe,Ukraine,Hydropower (excl. Pumped Storage),Renewable hydropower,,,10427.7
+Europe,Ukraine,Solar energy,On-grid Solar photovoltaic,,,1632.121
+Europe,Ukraine,Wind energy,Onshore wind energy,,,1399.185
+Europe,United Kingdom of Great Britain and Northern Ireland,Nuclear,Nuclear,,,65063.849
+Europe,United Kingdom of Great Britain and Northern Ireland,Bioenergy,Biogas,,,5700.948
+Europe,United Kingdom of Great Britain and Northern Ireland,Bioenergy,Solid biofuels,,,23531.535
+Europe,United Kingdom of Great Britain and Northern Ireland,Bioenergy,Renewable municipal waste,,,3637.628
+Europe,United Kingdom of Great Britain and Northern Ireland,Hydropower (excl. Pumped Storage),Renewable hydropower,,,5489.785
+Europe,United Kingdom of Great Britain and Northern Ireland,Solar energy,On-grid Solar photovoltaic,,,12857.351
+Europe,United Kingdom of Great Britain and Northern Ireland,Wind energy,Onshore wind energy,,,30216.899
+Europe,United Kingdom of Great Britain and Northern Ireland,Wind energy,Offshore wind energy,,,26687.062
+Middle East,Bahrain,Solar energy,On-grid Solar photovoltaic,,,8.25
+Middle East,Bahrain,Wind energy,Onshore wind energy,,,1.2
+Middle East,Iran (Islamic Republic of),Nuclear,Nuclear,,,7329
+Middle East,Iran (Islamic Republic of),Bioenergy,Biogas,,,24.44
+Middle East,Iran (Islamic Republic of),Hydropower (excl. Pumped Storage),Renewable hydropower,,,15765.098
+Middle East,Iran (Islamic Republic of),Solar energy,Off-grid Solar photovoltaic,,,0.635
+Middle East,Iran (Islamic Republic of),Solar energy,On-grid Solar photovoltaic,,,221.181
+Middle East,Iran (Islamic Republic of),Wind energy,Onshore wind energy,,,585.379
+Middle East,Iraq,Hydropower (excl. Pumped Storage),Renewable hydropower,,,2.348
+Middle East,Iraq,Hydropower (excl. Pumped Storage),Renewable hydropower,,,1817.702
+Middle East,Iraq,Solar energy,Off-grid Solar photovoltaic,,,61.425
+Middle East,Iraq,Solar energy,On-grid Solar photovoltaic,,,315.12
+Middle East,Israel,Bioenergy,Biogas,,,162.682
+Middle East,Israel,Bioenergy,Renewable municipal waste,,,8
+Middle East,Israel,Solar energy,Concentrated solar power,,,11.285
+Middle East,Israel,Solar energy,On-grid Solar photovoltaic,,,1573.8
+Middle East,Jordan,Bioenergy,Biogas,,,14.219
+Middle East,Jordan,Hydropower (excl. Pumped Storage),Renewable hydropower,,,35.945
+Middle East,Jordan,Solar energy,Off-grid Solar photovoltaic,,,0.973
+Middle East,Jordan,Solar energy,On-grid Solar photovoltaic,,,1474.645
+Middle East,Jordan,Wind energy,Onshore wind energy,,,721.4
+Middle East,Kuwait,Solar energy,On-grid Solar photovoltaic,,,70.694
+Middle East,Kuwait,Wind energy,Onshore wind energy,,,17.52
+Middle East,Lebanon,Bioenergy,Biogas,,,20
+Middle East,Lebanon,Hydropower (excl. Pumped Storage),Renewable hydropower,,,346.078
+Middle East,Lebanon,Solar energy,Off-grid Solar photovoltaic,,,0.801
+Middle East,Lebanon,Solar energy,On-grid Solar photovoltaic,,,82.794
+Middle East,Lebanon,Wind energy,Onshore wind energy,,,6
+Middle East,Oman,Solar energy,Off-grid Solar photovoltaic,,,0.021
+Middle East,Oman,Solar energy,On-grid Solar photovoltaic,,,15.691
+Middle East,Qatar,Bioenergy,Biogas,,,39.946
+Middle East,Qatar,Bioenergy,Renewable municipal waste,,,74.898
+Middle East,Qatar,Solar energy,On-grid Solar photovoltaic,,,8.364
+Middle East,Saudi Arabia,Solar energy,Concentrated solar power,,,148.92
+Middle East,Saudi Arabia,Solar energy,On-grid Solar photovoltaic,,,65.036
+Middle East,Saudi Arabia,Wind energy,Onshore wind energy,,,4.818
+Middle East,State of Palestine,Bioenergy,Biogas,,,0.276
+Middle East,State of Palestine,Solar energy,On-grid Solar photovoltaic,,,60
+Middle East,Syrian Arab Republic,Bioenergy,Biogas,,,33.479
+Middle East,Syrian Arab Republic,Hydropower (excl. Pumped Storage),Renewable hydropower,,,754
+Middle East,Syrian Arab Republic,Solar energy,On-grid Solar photovoltaic,,,2.424
+Middle East,Syrian Arab Republic,Wind energy,Onshore wind energy,,,1.051
+Middle East,United Arab Emirates,Bioenergy,Biogas,,,6
+Middle East,United Arab Emirates,Solar energy,Concentrated solar power,,,233.145
+Middle East,United Arab Emirates,Solar energy,Off-grid Solar photovoltaic,,,5.535
+Middle East,United Arab Emirates,Solar energy,On-grid Solar photovoltaic,,,1070
+Middle East,Yemen,Solar energy,Off-grid Solar photovoltaic,,,732
+North America,Canada,Nuclear,Nuclear,,,95037.245
+North America,Canada,Bioenergy,Biogas,,,972
+North America,Canada,Bioenergy,Solid biofuels,,,9517
+North America,Canada,Bioenergy,Renewable municipal waste,,,172
+North America,Canada,Hydropower (excl. Pumped Storage),Renewable hydropower,,,381638.531
+North America,Canada,Solar energy,On-grid Solar photovoltaic,,,3802.369
+North America,Canada,Wind energy,Onshore wind energy,,,31848.351
+North America,Greenland,Hydropower (excl. Pumped Storage),Renewable hydropower,,,401
+North America,Mexico,Nuclear,Nuclear,,,13674.91
+North America,Mexico,Bioenergy,Biogas,,,260.333
+North America,Mexico,Bioenergy,Solid biofuels,,,2367.951
+North America,Mexico,Geothermal energy,Geothermal energy,,,5374.81
+North America,Mexico,Hydropower (excl. Pumped Storage),Renewable hydropower,,,32526.47
+North America,Mexico,Solar energy,On-grid Solar photovoltaic,,,1362.69
+North America,Mexico,Wind energy,Onshore wind energy,,,12877.38
+North America,United States of America,Nuclear,Nuclear,,,841329
+North America,United States of America,Bioenergy,Biogas,,,13259
+North America,United States of America,Bioenergy,Solid biofuels,,,45893
+North America,United States of America,Bioenergy,Liquid biofuels,,,351
+North America,United States of America,Bioenergy,Renewable municipal waste,,,8382
+North America,United States of America,Geothermal energy,Geothermal energy,,,18773
+North America,United States of America,Hydropower (excl. Pumped Storage),Renewable hydropower,,,295501
+North America,United States of America,Solar energy,Concentrated solar power,,,3940
+North America,United States of America,Solar energy,On-grid Solar photovoltaic,,,81244
+North America,United States of America,Wind energy,Onshore wind energy,,,275732.384
+North America,United States of America,Wind energy,Offshore wind energy,,,101.616
+Oceania,American Samoa,Solar energy,Off-grid Solar photovoltaic,,,1.097
+Oceania,American Samoa,Solar energy,On-grid Solar photovoltaic,,,3.735
+Oceania,Australia,Bioenergy,Biogas,,,1254
+Oceania,Australia,Bioenergy,Solid biofuels,,,2264
+Oceania,Australia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,15831
+Oceania,Australia,Solar energy,Concentrated solar power,,,3
+Oceania,Australia,Solar energy,On-grid Solar photovoltaic,,,9927
+Oceania,Australia,Wind energy,Onshore wind energy,,,15164
+Oceania,Cook Islands,Solar energy,Off-grid Solar photovoltaic,,,0.207
+Oceania,Cook Islands,Solar energy,On-grid Solar photovoltaic,,,10.522
+Oceania,Fiji,Bioenergy,Solid biofuels,,,59.76
+Oceania,Fiji,Bioenergy,Liquid biofuels,,,0.063
+Oceania,Fiji,Hydropower (excl. Pumped Storage),Renewable hydropower,,,0.533
+Oceania,Fiji,Hydropower (excl. Pumped Storage),Renewable hydropower,,,566.709
+Oceania,Fiji,Solar energy,Off-grid Solar photovoltaic,,,5.764
+Oceania,Fiji,Solar energy,On-grid Solar photovoltaic,,,6.729
+Oceania,Fiji,Wind energy,Onshore wind energy,,,2.558
+Oceania,French Polynesia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,164.943
+Oceania,French Polynesia,Solar energy,Off-grid Solar photovoltaic,,,3.6
+Oceania,French Polynesia,Solar energy,On-grid Solar photovoltaic,,,33.9
+Oceania,French Polynesia,Wind energy,Onshore wind energy,,,0.078
+Oceania,Guam,Solar energy,On-grid Solar photovoltaic,,,67.962
+Oceania,Guam,Wind energy,Onshore wind energy,,,0.5
+Oceania,Kiribati,Solar energy,Off-grid Solar photovoltaic,,,2.361
+Oceania,Kiribati,Solar energy,On-grid Solar photovoltaic,,,2.476
+Oceania,Marshall Islands,Solar energy,Off-grid Solar photovoltaic,,,0.899
+Oceania,Marshall Islands,Solar energy,On-grid Solar photovoltaic,,,0.953
+Oceania,Micronesia (Federated States of),Solar energy,Off-grid Solar photovoltaic,,,0.623
+Oceania,Micronesia (Federated States of),Solar energy,On-grid Solar photovoltaic,,,2.359
+Oceania,Nauru,Solar energy,Off-grid Solar photovoltaic,,,0.01
+Oceania,Nauru,Solar energy,On-grid Solar photovoltaic,,,1.183
+Oceania,New Caledonia,Bioenergy,Liquid biofuels,,,0.582
+Oceania,New Caledonia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,317.238
+Oceania,New Caledonia,Solar energy,Off-grid Solar photovoltaic,,,0.71
+Oceania,New Caledonia,Solar energy,On-grid Solar photovoltaic,,,45.953
+Oceania,New Caledonia,Wind energy,Onshore wind energy,,,45.002
+Oceania,New Zealand,Bioenergy,Biogas,,,273.524
+Oceania,New Zealand,Bioenergy,Solid biofuels,,,308.708
+Oceania,New Zealand,Geothermal energy,Geothermal energy,,,7815.113
+Oceania,New Zealand,Hydropower (excl. Pumped Storage),Renewable hydropower,,,26308.927
+Oceania,New Zealand,Solar energy,On-grid Solar photovoltaic,,,97.941
+Oceania,New Zealand,Wind energy,Onshore wind energy,,,2067.654
+Oceania,Niue,Solar energy,On-grid Solar photovoltaic,,,0.469
+Oceania,Palau,Solar energy,Off-grid Solar photovoltaic,,,0.228
+Oceania,Palau,Solar energy,On-grid Solar photovoltaic,,,1.487
+Oceania,Papua New Guinea,Bioenergy,Biogas,,,28.604
+Oceania,Papua New Guinea,Bioenergy,Solid biofuels,,,11.701
+Oceania,Papua New Guinea,Geothermal energy,Geothermal energy,,,400
+Oceania,Papua New Guinea,Hydropower (excl. Pumped Storage),Renewable hydropower,,,209.258
+Oceania,Papua New Guinea,Hydropower (excl. Pumped Storage),Renewable hydropower,,,667.303
+Oceania,Papua New Guinea,Solar energy,Off-grid Solar photovoltaic,,,1.388
+Oceania,Samoa,Hydropower (excl. Pumped Storage),Renewable hydropower,,,42.814
+Oceania,Samoa,Solar energy,Off-grid Solar photovoltaic,,,0.01
+Oceania,Samoa,Solar energy,On-grid Solar photovoltaic,,,21.086
+Oceania,Samoa,Wind energy,Onshore wind energy,,,0.134
+Oceania,Solomon Islands,Bioenergy,Solid biofuels,,,2.756
+Oceania,Solomon Islands,Hydropower (excl. Pumped Storage),Renewable hydropower,,,0.891
+Oceania,Solomon Islands,Solar energy,Off-grid Solar photovoltaic,,,1.99
+Oceania,Solomon Islands,Solar energy,On-grid Solar photovoltaic,,,0.905
+Oceania,Tokelau,Solar energy,Off-grid Solar photovoltaic,,,0.022
+Oceania,Tokelau,Solar energy,On-grid Solar photovoltaic,,,1.204
+Oceania,Tonga,Solar energy,Off-grid Solar photovoltaic,,,0.342
+Oceania,Tonga,Solar energy,On-grid Solar photovoltaic,,,6.701
+Oceania,Tonga,Wind energy,Onshore wind energy,,,0.115
+Oceania,Tuvalu,Solar energy,Off-grid Solar photovoltaic,,,1.181
+Oceania,Tuvalu,Solar energy,On-grid Solar photovoltaic,,,0.803
+Oceania,Vanuatu,Hydropower (excl. Pumped Storage),Renewable hydropower,,,0.205
+Oceania,Vanuatu,Hydropower (excl. Pumped Storage),Renewable hydropower,,,6.871
+Oceania,Vanuatu,Solar energy,Off-grid Solar photovoltaic,,,3.276
+Oceania,Vanuatu,Solar energy,On-grid Solar photovoltaic,,,2.02
+Oceania,Vanuatu,Wind energy,Onshore wind energy,,,4.77
+South America,Argentina,Nuclear,Nuclear,,,6453
+South America,Argentina,Bioenergy,Biogas,,,145.307
+South America,Argentina,Bioenergy,Solid biofuels,,,1700.669
+South America,Argentina,Hydropower (excl. Pumped Storage),Renewable hydropower,,,5.328
+South America,Argentina,Hydropower (excl. Pumped Storage),Renewable hydropower,,,39128.34
+South America,Argentina,Solar energy,Off-grid Solar photovoltaic,,,0.142
+South America,Argentina,Solar energy,On-grid Solar photovoltaic,,,108
+South America,Argentina,Wind energy,Onshore wind energy,,,0.25
+South America,Argentina,Wind energy,Onshore wind energy,,,1413
+South America,Bolivia (Plurinational State of),Bioenergy,Biogas,,,0.125
+South America,Bolivia (Plurinational State of),Bioenergy,Solid biofuels,,,91.33
+South America,Bolivia (Plurinational State of),Bioenergy,Solid biofuels,,,77.055
+South America,Bolivia (Plurinational State of),Hydropower (excl. Pumped Storage),Renewable hydropower,,,6.57
+South America,Bolivia (Plurinational State of),Hydropower (excl. Pumped Storage),Renewable hydropower,,,2605.795
+South America,Bolivia (Plurinational State of),Solar energy,Off-grid Solar photovoltaic,,,5.37
+South America,Bolivia (Plurinational State of),Solar energy,On-grid Solar photovoltaic,,,122.057
+South America,Bolivia (Plurinational State of),Wind energy,Onshore wind energy,,,58.84
+South America,Brazil,Nuclear,Nuclear,,,15673.887
+South America,Brazil,Bioenergy,Biogas,,,731.334
+South America,Brazil,Bioenergy,Solid biofuels,,,53363.565
+South America,Brazil,Bioenergy,Liquid biofuels,,,402.662
+South America,Brazil,Hydropower (excl. Pumped Storage),Renewable hydropower,,,388971.076
+South America,Brazil,Solar energy,On-grid Solar photovoltaic,,,3987.439
+South America,Brazil,Wind energy,Onshore wind energy,,,48489.289
+South America,Chile,Bioenergy,Biogas,,,68.645
+South America,Chile,Bioenergy,Solid biofuels,,,6059.373
+South America,Chile,Geothermal energy,Geothermal energy,,,214.1
+South America,Chile,Hydropower (excl. Pumped Storage),Renewable hydropower,,,23366.769
+South America,Chile,Solar energy,On-grid Solar photovoltaic,,,5217.783
+South America,Chile,Wind energy,Onshore wind energy,,,3587.895
+South America,Colombia,Bioenergy,Biogas,,,3.825
+South America,Colombia,Bioenergy,Solid biofuels,,,0.261
+South America,Colombia,Bioenergy,Solid biofuels,,,1710.723
+South America,Colombia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,13.976
+South America,Colombia,Hydropower (excl. Pumped Storage),Renewable hydropower,,,56647.014
+South America,Colombia,Solar energy,Off-grid Solar photovoltaic,,,2.035
+South America,Colombia,Solar energy,On-grid Solar photovoltaic,,,11.999
+South America,Colombia,Wind energy,Onshore wind energy,,,43.437
+South America,Ecuador,Bioenergy,Biogas,,,45.523
+South America,Ecuador,Bioenergy,Solid biofuels,,,382.444
+South America,Ecuador,Hydropower (excl. Pumped Storage),Renewable hydropower,,,16.411
+South America,Ecuador,Hydropower (excl. Pumped Storage),Renewable hydropower,,,20661.591
+South America,Ecuador,Solar energy,Off-grid Solar photovoltaic,,,3.311
+South America,Ecuador,Solar energy,On-grid Solar photovoltaic,,,34.768
+South America,Ecuador,Wind energy,Onshore wind energy,,,6.556
+South America,Ecuador,Wind energy,Onshore wind energy,,,73.702
+South America,Falkland Islands (Malvinas),Solar energy,Off-grid Solar photovoltaic,,,0.052
+South America,Falkland Islands (Malvinas),Wind energy,Onshore wind energy,,,1.3
+South America,Falkland Islands (Malvinas),Wind energy,Onshore wind energy,,,5.421
+South America,French Guiana,Bioenergy,Solid biofuels,,,10.452
+South America,French Guiana,Hydropower (excl. Pumped Storage),Renewable hydropower,,,538.279
+South America,French Guiana,Solar energy,On-grid Solar photovoltaic,,,51.199
+South America,Guyana,Bioenergy,Solid biofuels,,,23.376
+South America,Guyana,Bioenergy,Solid biofuels,,,58.701
+South America,Guyana,Hydropower (excl. Pumped Storage),Renewable hydropower,,,0
+South America,Guyana,Hydropower (excl. Pumped Storage),Renewable hydropower,,,0.005
+South America,Guyana,Solar energy,Off-grid Solar photovoltaic,,,2.41
+South America,Guyana,Solar energy,On-grid Solar photovoltaic,,,6.115
+South America,Guyana,Wind energy,Onshore wind energy,,,0.35
+South America,Guyana,Wind energy,Onshore wind energy,,,0
+South America,Paraguay,Bioenergy,Biogas,,,1.837
+South America,Paraguay,Bioenergy,Solid biofuels,,,699.568
+South America,Paraguay,Hydropower (excl. Pumped Storage),Renewable hydropower,,,59210.94
+South America,Paraguay,Solar energy,Off-grid Solar photovoltaic,,,0.065
+South America,Peru,Bioenergy,Biogas,,,50.597
+South America,Peru,Bioenergy,Solid biofuels,,,194.38
+South America,Peru,Bioenergy,Solid biofuels,,,207.382
+South America,Peru,Hydropower (excl. Pumped Storage),Renewable hydropower,,,589.733
+South America,Peru,Hydropower (excl. Pumped Storage),Renewable hydropower,,,30141.508
+South America,Peru,Solar energy,Off-grid Solar photovoltaic,,,51.246
+South America,Peru,Solar energy,On-grid Solar photovoltaic,,,745.401
+South America,Peru,Wind energy,Onshore wind energy,,,1.226
+South America,Peru,Wind energy,Onshore wind energy,,,1501.212
+South America,South Georgia and the South Sandwich Islands,Hydropower (excl. Pumped Storage),Renewable hydropower,,,0.695
+South America,Suriname,Bioenergy,Solid biofuels,,,6.451
+South America,Suriname,Hydropower (excl. Pumped Storage),Renewable hydropower,,,0.631
+South America,Suriname,Hydropower (excl. Pumped Storage),Renewable hydropower,,,956.353
+South America,Suriname,Solar energy,Off-grid Solar photovoltaic,,,2.66
+South America,Suriname,Solar energy,On-grid Solar photovoltaic,,,7.809
+South America,Uruguay,Bioenergy,Biogas,,,29.31
+South America,Uruguay,Bioenergy,Solid biofuels,,,2482.214
+South America,Uruguay,Bioenergy,Liquid biofuels,,,17.955
+South America,Uruguay,Hydropower (excl. Pumped Storage),Renewable hydropower,,,6556.625
+South America,Uruguay,Solar energy,Off-grid Solar photovoltaic,,,2.677
+South America,Uruguay,Solar energy,On-grid Solar photovoltaic,,,412.627
+South America,Uruguay,Wind energy,Onshore wind energy,,,0.001
+South America,Uruguay,Wind energy,Onshore wind energy,,,4732.21
+South America,Venezuela (Bolivarian Republic of),Hydropower (excl. Pumped Storage),Renewable hydropower,,,3.5
+South America,Venezuela (Bolivarian Republic of),Hydropower (excl. Pumped Storage),Renewable hydropower,,,25179.575
+South America,Venezuela (Bolivarian Republic of),Solar energy,Off-grid Solar photovoltaic,,,4.725
+South America,Venezuela (Bolivarian Republic of),Solar energy,On-grid Solar photovoltaic,,,1.55
+South America,Venezuela (Bolivarian Republic of),Wind energy,Onshore wind energy,,,88.3
