@@ -82,7 +82,6 @@
               "Hydropower (excl. Pumped Storage)",
               "Marine energy",
               "Nuclear",
-              "Pumped storage",
               "Solar energy",
               "Wind energy"
             ],
@@ -92,7 +91,6 @@
               "#1100ff",
               "#9900ff",
               "#00ff00",
-              "#00fff2",
               "#ffff00",
               "#096106"
             ]
