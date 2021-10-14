@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 400,
-    "height": 300,
+    "height" 300,
     "data": {
         "url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/full_renewable_data.csv"
     },
@@ -18,10 +18,8 @@
             }
         }
     ],
-
     "transform": [
         {
-           
             "filter": "datum.Year == YearRange "
         }
     ],
@@ -36,9 +34,9 @@
             "type": "nominal",
             "sort": {
                 "field": "Electricity Generation (GWh)",
-                "op":"sum",
+                "op": "sum",
                 "order": "descending"
-            }  
+            }
         },
         "color": {
             "field": "Region",
