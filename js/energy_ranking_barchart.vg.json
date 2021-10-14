@@ -38,7 +38,11 @@
                 "field": "Electricity Generation (GWh)",
                 "op":"sum",
                 "order": "descending"
-            }
+            },
+        "color": {
+            "field": "Region",
+            "type": "nominal"
+        }
             
         }
     }
