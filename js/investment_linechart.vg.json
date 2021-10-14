@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Renewable Energy Investment",
-    "width": 500,
-    "height": 400,
+    "width": 400,
+    "height": 300,
     "data":{
 
         "url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/money_data.csv"
