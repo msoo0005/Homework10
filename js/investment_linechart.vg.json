@@ -1,0 +1,37 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Renewable Energy Investment",
+    "width": 500,
+    "height": 400,
+    "data":{
+
+        "url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/money_data.csv"
+    } ,
+    "mark": {"type":"line",
+    "point":true
+    },
+    "selection": {
+        "continent_highlight": {
+          "type": "multi",
+          "fields": [
+            "Region"
+          ],
+          "bind": "legend"
+        }
+      },
+  "encoding": {
+    "x": {"field": "Year", "timeUnit": "year"},
+    "y": {"field": "Public Investment (2018 Million USD)","aggregate":"sum" ,"type": "quantitative", "axis":{"title":"Public Investment (USD)"}},
+    "color": {"field": "Region", "type": "nominal"},
+    "opacity": {
+        "condition": {
+          "selection": "continent_highlight",
+          "value": 1.0
+        },
+        "value": 0.2
+      }
+  }
+
+
+
+}
