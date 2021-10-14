@@ -42,26 +42,7 @@
                 "value": 1.0
             },
             "value": 0.2
-        },
-        "tooltip": [
-            {
-                "title": "Region",
-                "field": "Region",
-                "type": "nominal"
-            },
-            {
-                "title": "Investment ( Million USD)",
-                "field": "Public Investment (2018 Million USD)",
-                "type": "quantitative",
-                "format": ".0f",
-                "aggregate": "sum"
-            },
-            {
-                "title": "Year",
-                "field": "Year",
-                "type": "quantitative",
-                "timeUnit": "year"
-            }
+        }
         ]
     }
 }
