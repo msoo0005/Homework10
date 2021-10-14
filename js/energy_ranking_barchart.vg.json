@@ -1,0 +1,44 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A bar graph showing the scores of the top 5 students. This shows an example of the window transform, for how the top K (5) can be filtered, and also how a rank can be computed for each student.",
+    "data": {
+        "url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/full_renewable_data.csv"
+    },
+    "params": [
+        {
+            "name": "YearRange",
+            "value": 2000,
+            "bind": {
+                "input": "range",
+                "min": 2000,
+                "max": 2018,
+                "step": 1,
+                "name": "Year: "
+            }
+        }
+    ],
+
+    "transform": [
+        {
+           
+            "filter": "datum.Year == YearRange "
+        }
+    ],
+    "mark": "bar",
+    "encoding": {
+        "x": {
+            "field": "Electricity Generation (GWh)",
+            "type": "quantitative"
+        },
+        "y": {
+            "field": "Region",
+            "type": "nominal",
+            "sort": {
+                "field": "Electricity Generation (GWh)",
+                "op":"sum",
+                "order": "descending"
+            }
+            
+        }
+    }
+}
