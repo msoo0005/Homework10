@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "World Renewable Energy",
   "width": 400,
-  "height": 300,
+  "height": 250,
   "data": {
     "url": "https://raw.githubusercontent.com/msoo0005/Homework9/main/js/ne_110m_admin_0_countries.json",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
