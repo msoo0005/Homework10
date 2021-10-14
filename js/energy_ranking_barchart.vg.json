@@ -27,16 +27,13 @@
     "encoding": {
         "x": {
             "field": "Electricity Generation (GWh)",
+            "aggregate":"sum",
             "type": "quantitative"
         },
         "y": {
             "field": "Region",
             "type": "nominal",
-            "sort": {
-                "field": "Electricity Generation (GWh)",
-                "op": "sum",
-                "order": "descending"
-            }
+            "sort": "-x"      
         },
         "color": {
             "field": "Region",
