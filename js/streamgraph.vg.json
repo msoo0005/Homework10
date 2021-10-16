@@ -68,9 +68,7 @@
         },
         "y": {
           "aggregate": "sum",
-          "field": "Electricity Generation (GWh)",
-          "axis": null,
-          "stack": "center"
+          "field": "Electricity Generation (GWh)"
         },
         "color": {
           "field": "Group Technology",
