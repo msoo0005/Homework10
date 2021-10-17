@@ -25,7 +25,10 @@
     "encoding": {
         "x": {
             "field": "Year",
-            "timeUnit": "year"
+            "timeUnit": "year",
+            "axis": {
+                "title": "Year"
+            }
         },
         "y": {
             "field": "Investment",
