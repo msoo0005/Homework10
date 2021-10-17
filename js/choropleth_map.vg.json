@@ -16,7 +16,7 @@
   "title": "World Renewable Energy",
   "width": "container",
   "projection": {
-    "type": "equalEarth"
+    "type": "equirectangular"
   },
   "layer": [
     {
