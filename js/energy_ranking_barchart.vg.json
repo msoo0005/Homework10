@@ -1,7 +1,9 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": "container",
-    "height":200,
+    "title": {
+        "text":"Rankings",
+        "fontSize": 20
+    },
     "data": {
         "url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/full_renewable_data.csv"
     },
@@ -39,5 +41,8 @@
             "field": "Region",
             "type": "nominal"
         }
+    },
+    "config": {
+        "font": "Lato"
     }
 }
