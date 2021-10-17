@@ -50,11 +50,5 @@
         "name":"Bioenergy",
         "parent":3,
         "size":526557
-    },
-    {
-        "id":10,
-        "name":"Geothermal",
-        "parent":3,
-        "size":89521
     }
 ]
