@@ -29,7 +29,7 @@
     </div>
    <div class="pure-g">
         <div class="pure-u-1-1">
-          <div id="treemap" class="vis-container"></div>
+          <div id="treemap_energy" class="vis-container"></div>
         </div>
     </div>
 
@@ -133,7 +133,7 @@
   }).catch(console.error);
   
   var spec6 = "js/treemap.vg.json";
-  vegaEmbed('#treemap', spec6).then(function(result) {
+  vegaEmbed('#treemap_energy', spec6).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
