@@ -72,7 +72,12 @@
         },
         "y": {
           "aggregate": "sum",
-          "field": "Energy"
+          "field": "Energy",
+          "axis": {
+            "title": "Electrcity Production (GWh)",
+            "domain": false,
+            "format": "%Y",
+            "tickSize": 0
         },
         "color": {
           "field": "Technology",
