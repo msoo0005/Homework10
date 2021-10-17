@@ -17,38 +17,38 @@
         "id":4,
         "name":"Fossil Fuels",
         "parent":2,
-        "size":16883476.8
+        "size":64.46752556
     },
     {
         "id":5,
         "name":"Nuclear",
         "parent":2,
-        "size":2703198.74
+        "size":10.32183927
     },
     {
         "id":6,
         "name":"Hydropower",
         "parent":3,
-        "size":4280510
+        "size":16.34461131
 
     },
     {
         "id":7,
         "name":"Wind",
         "parent":3,
-        "size":1258095
+        "size":4.803885001
     },
     {
         "id":8,
         "name":"Solar",
         "parent":3,
-        "size":564710
+        "size":2.156277647
 
     },
     {
         "id":9,
         "name":"Bioenergy",
         "parent":3,
-        "size":526557
+        "size":2.010595865
     }
 ]
