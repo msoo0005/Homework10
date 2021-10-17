@@ -14,7 +14,7 @@
     }
   ],
   "title": "World Renewable Energy",
-  "width": 800,
+  "width": 750,
   "height":400,
   "projection": {
     "type": "equirectangular"
