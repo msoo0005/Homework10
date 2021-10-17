@@ -1,6 +1,9 @@
 
-.body {
-    font-family: 'Didact Gothic', sans-serif;
+body,
+.pure-g [class *= "pure-u"],
+.pure-g-r [class *= "pure-u"] {
+    /* Set your content font stack here: */
+    font-family: "Lato";
 }
 
 h1 {
