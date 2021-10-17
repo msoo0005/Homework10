@@ -34,7 +34,7 @@
             "aggregate":"sum",
             "type": "quantitative",
             "axis": {
-            "title": "Electricity Generation (GWh)",
+            "title": "Electricity Generation (GWh)"
             }
         },
         "y": {
