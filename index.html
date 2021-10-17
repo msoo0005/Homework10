@@ -1,142 +1,164 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  <title>Data Visualisation 2</title>
-  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
-  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+    <title>Data Visualisation 2</title>
+    <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
 
-  <!-- Import pure.css -->
-  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Import pure.css -->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+        integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- Google font -->
-  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700;900&display=swap" rel="stylesheet">
+    <!-- Google font -->
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700;900&display=swap"
+        rel="stylesheet">
 
-  <!-- CSS file -->
-  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+    <!-- CSS file -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
 
 
 </head>
+
 <body>
 
- <div class="page">
-    <div class="pure-g">
-      <div class="pure-u-1-1">
-        <h1>Treemap</h1>
-      </div>
-    </div>
-   <div class="pure-g">
+    <div class="page">
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h1>Renewable Energy</h1>
+            </div>
+        </div>
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h2>Non-Renewable VS. Renewable</h2>
+                <div id="treemap_graph" class="vis-container"></div>
+            </div>
+        </div>
         <div class="pure-u-1-1">
-          <div id="treemap_graph" class="vis-container"></div>
+            <div class="description description-right">
+                <p>Information About Fossil Fuel vs. Renewable Energy</p>
+            </div>
+        </div>
+
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h2>Renewable Energy Across the World</h2>
+            </div>
+        </div>
+        <!-- end pure grid group -->
+
+        <!-- pure grid group -->
+
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <div id="choropleth_map" class="vis-container"></div>
+            </div>
+        </div>
+        <div class="pure-u-1-1">
+            <div class="description description-right">
+                <p>Map World Data Information</p>
+            </div>
+        </div>
+        <!-- end pure grid group -->
+
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h3>World Energy Rankings</h3>
+            </div>
+        </div>
+
+        <!-- pure grid group -->
+        
+
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <div id="barchart" class="vis-container"></div>
+            </div>
+        </div>
+        <div class="pure-u-1-1">
+            <div class="description description-right">
+                <p>Information on the Rankings of Energy Production</p>
+            </div>
+        </div>
+
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h2>Growth of Renewable Energy</h2>
+            </div>
+        </div>
+        <!-- end pure grid group -->
+
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h3>Renewable Energy Electrcity Production Growth</h3>
+            </div>
+        </div>
+
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <div id="streamgraph" class="vis-container"></div>
+            </div>
+        </div>
+        <div class="pure-u-1-1">
+            <div class="description description-right">
+                <p>Electricity Production Information</p>
+            </div>
+        </div>
+
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h3>Renewable Energy Investment Growth</h3>
+            </div>
+        </div>
+
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <div id="linechart" class="vis-container"></div>
+            </div>
+
+        </div>
+        <div class="pure-u-1-1">
+            <div class="description description-right">
+                <p>Investment Gorwth information</p>
+            </div>
         </div>
     </div>
 
-   <!-- pure grid group -->
-    <div class="pure-g">
-      <div class="pure-u-1-1">
-        <h1>Renewable Energy in the world</h1>
-      </div>
-    </div>
-  <!-- end pure grid group -->
+    <script type="text/javascript">
 
-    <!-- pure grid group -->
-   
-    <div class="pure-g">
-        <div class="pure-u-1-1">
-          <div id="choropleth_map" class="vis-container"></div>
-        </div>
-    </div>
-   <div class="pure-u-1-1">
-          <div class="description description-right">
-            <h2>This is the second section</h2>
-            <p>Similar to the previous section, but the colum partition is swapped. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed. Egestas purus viverra accumsan in nisl.</p>
-          </div>
-        </div>
-    <!-- end pure grid group -->
-   
-    <div class="pure-g">
-      <div class="pure-u-1-1">
-        <h1>Timeline of Renewable Energy Growth</h1>
-      </div>
-    </div>
-   
-    <!-- pure grid group -->
-    <div class="pure-g">
-        <div class="pure-u-1-1">
-          <div id="streamgraph"  class="vis-container"></div>
-        </div>     
-    </div>
-   <div class="pure-u-1-1">
-          <div class="description description-right">
-            <h2>This is the second section</h2>
-            <p>Similar to the previous section, but the colum partition is swapped. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed. Egestas purus viverra accumsan in nisl.</p>
-          </div>
-        </div>
-   
-    <div class="pure-g">
-      <div class="pure-u-1-1">
-        <h1>World Energy Rankings</h1>
-      </div>
-    </div>
-   
-   <!-- pure grid group -->
+        var spec2 = "js/choropleth_map.vg.json";
+        vegaEmbed('#choropleth_map', spec2).then(function (result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
 
-    <div class="pure-g">
-        <div class="pure-u-1-1">
-          <div id="barchart"  class="vis-container"></div>
-        </div>
-    </div>
-   <div class="pure-u-1-1">
-          <div class="description description-right">
-            <h2>This is the second section</h2>
-            <p>Similar to the previous section, but the colum partition is swapped. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed. Egestas purus viverra accumsan in nisl.</p>
-          </div>
-        </div>
-   
-   <!-- pure grid group -->
-    <div class="pure-g">
-        <div class="pure-u-1-1">
-          <div id="linechart"  class="vis-container"></div>
-        </div>
-      
-    </div>
-   <div class="pure-u-1-1">
-          <div class="description description-right">
-            <h2>This is the second section</h2>
-            <p>Similar to the previous section, but the colum partition is swapped. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed. Egestas purus viverra accumsan in nisl.</p>
-          </div>
-        </div>
-  </div>
+        var spec3 = "js/streamgraph.vg.json";
+        vegaEmbed('#streamgraph', spec3).then(function (result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
 
-<script type="text/javascript">
+        var spec4 = "js/energy_ranking_barchart.vg.json";
+        vegaEmbed('#barchart', spec4).then(function (result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
 
-  var spec2 = "js/choropleth_map.vg.json";
-  vegaEmbed('#choropleth_map', spec2).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-  
-  var spec3 = "js/streamgraph.vg.json";
-  vegaEmbed('#streamgraph', spec3).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-  
-  var spec4 = "js/energy_ranking_barchart.vg.json";
-  vegaEmbed('#barchart', spec4).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-  
-  var spec5 = "js/investment_linechart.vg.json";
-  vegaEmbed('#linechart', spec5).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-  
-  var spec6 = "js/treemap.vg.json";
-  vegaEmbed('#treemap_graph', spec6).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-</script>
+        var spec5 = "js/investment_linechart.vg.json";
+        vegaEmbed('#linechart', spec5).then(function (result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        var spec6 = "js/treemap.vg.json";
+        vegaEmbed('#treemap_graph', spec6).then(function (result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+    </script>
 
 </body>
+
 </html>
