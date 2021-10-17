@@ -13,7 +13,10 @@
       }
     }
   ],
-  "title": "World Renewable Energy",
+    "title": {
+    "text":"Renewable Energy World Map",
+    "fontSize": 20
+},
   "width": "container",
   "height":400,
   "projection": {
@@ -102,5 +105,8 @@
         ]
       }
     }
-  ]
+  ],
+  "config":{
+    "font:"Lato"
+  }
 }
