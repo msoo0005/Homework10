@@ -17,6 +17,7 @@
     
     {
       "title": "Ranking",
+      "width":200,
       "data": {
         "url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/full_renewable_data.csv"
       },
@@ -58,6 +59,7 @@
     },
     {
       "title": "World Renewable Energy",
+      "width":295,
       "projection": {
         "type": "equalEarth"
       },
