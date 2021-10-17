@@ -1,0 +1,54 @@
+[
+    {
+        "id":1,
+        "name":"Non-Renewable Energy"
+    },
+    {
+        "id":2,
+        "name":"Renewable Energy"
+    },
+    {
+        "id":3,
+        "name":"Fossil Fuels",
+        "parent":1,
+        "size":16883476.8
+    },
+    {
+        "id":4,
+        "name":"Nuclear",
+        "parent":1,
+        "size":2703198.74
+    },
+    {
+        "id":5,
+        "name":"Hydropower",
+        "parent":2,
+        "size":4280510
+
+    },
+    {
+        "id":6,
+        "name":"Wind",
+        "parent":2,
+        "size":1258095
+    },
+    {
+        "id":7,
+        "name":"Solar",
+        "parent":2,
+        "size":564710
+
+    },
+    {
+        "id":8,
+        "name":"Bioenergy",
+        "parent":2,
+        "size":526557
+    },
+    {
+        "id":9,
+        "name":"Geothermal",
+        "parent":2,
+        "size":89521
+    }
+]
