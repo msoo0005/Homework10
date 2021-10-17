@@ -103,7 +103,7 @@
           },
           {
             "field": "RE Percentage",
-            "title": "Renewable Energy Percentage"
+            "title": "Renewable Energy Percentage",
             "type": "quantitative",
             "format": ".2f"
           }
