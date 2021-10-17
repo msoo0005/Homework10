@@ -32,7 +32,10 @@
         "x": {
             "field": "Electricity Generation (GWh)",
             "aggregate":"sum",
-            "type": "quantitative"
+            "type": "quantitative",
+            "axis": {
+            "title": "Electricity Generation (GWh)",
+            }
         },
         "y": {
             "field": "Region",
