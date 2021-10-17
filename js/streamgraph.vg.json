@@ -1,9 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 400,
-  "height": 300,
+  "width": "container",
   "data": {
-    "url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/full_renewable_data.csv"
+    "url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/area_chart_data.csv"
   },
   "params": [
     {
@@ -49,7 +48,7 @@
         "continent_highlight": {
           "type": "multi",
           "fields": [
-            "Group Technology"
+            "Technology"
           ],
           "bind": "legend"
         }
@@ -68,17 +67,16 @@
         },
         "y": {
           "aggregate": "sum",
-          "field": "Electricity Generation (GWh)"
+          "field": "Energy"
         },
         "color": {
-          "field": "Group Technology",
+          "field": "Technology",
           "type": "nominal",
           "scale": {
             "domain": [
               "Bioenergy",
               "Geothermal energy",
               "Hydropower (excl. Pumped Storage)",
-              "Nuclear",
               "Solar energy",
               "Wind energy"
             ],
@@ -86,7 +84,6 @@
               "#2e1a1a",
               "#ff8800",
               "#1100ff",
-              "#00ff00",
               "#ffff00",
               "#096106"
             ]
@@ -102,12 +99,12 @@
         "tooltip": [
           {
             "title": "Technology Type",
-            "field": "Group Technology",
+            "field": "Technology",
             "type": "nominal"
           },
           {
             "title": "Energy (GWh)",
-            "field": "Electricity Generation (GWh)",
+            "field": "Energy",
             "type": "quantitative",
             "format": ".2f",
             "aggregate": "sum"
