@@ -3,7 +3,7 @@ body,
 .pure-g [class *= "pure-u"],
 .pure-g-r [class *= "pure-u"] {
     /* Set your content font stack here: */
-    font-family: "Lato";
+    font-family: "Lato", sans-serif;
 }
 
 h1 {
