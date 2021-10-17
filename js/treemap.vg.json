@@ -1,7 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega/v5.json",
-    "title": "Renewable                                                   Non Renewable",
-    "width": "container",
+    "description": "An example of treemap layout for hierarchical data.",
+    "width": 800,
+    "height": 400,
     "padding": 2.5,
     "autosize": "none",
     "signals": [
@@ -95,8 +96,8 @@
                 64.5
             ],
             "range": [
-                8,
-                40
+                7,
+                34
             ]
         }
     ],
