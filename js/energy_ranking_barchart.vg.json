@@ -4,6 +4,8 @@
         "text":"Rankings",
         "fontSize": 20
     },
+    "width":"container",
+    "height":200,
     "data": {
         "url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/full_renewable_data.csv"
     },
