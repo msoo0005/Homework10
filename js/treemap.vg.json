@@ -1,8 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega/v5.json",
     "title": "Renewable                                                   Non Renewable",
-    "width": 960,
-    "height": 400,
+    "width": "container",
     "padding": 2.5,
     "autosize": "none",
     "signals": [
