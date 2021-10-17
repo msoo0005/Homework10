@@ -133,7 +133,9 @@
         "align": "right",
         "baseline": "middle",
         "dx": -12,
+        "dy":-50,
         "fontSize": 11.5,
+        "font":"Lato",
         "fontStyle": "italic"
       },
       "encoding": {
