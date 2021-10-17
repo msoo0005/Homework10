@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega/v5.json",
     "description": "An example of treemap layout for hierarchical data.",
-    "width": "container",
-    "height": 400,
+    "width": 960,
+    "height": 500,
     "padding": 2.5,
     "autosize": "none",
     "signals": [
@@ -96,8 +96,8 @@
                 64.5
             ],
             "range": [
-                7,
-                34
+                8,
+                40
             ]
         }
     ],
@@ -170,7 +170,7 @@
             "encode": {
                 "enter": {
                     "font": {
-                        "value": "Roboto Condensed"
+                        "value": "Lato"
                     },
                     "align": {
                         "value": "center"
@@ -179,7 +179,7 @@
                         "value": "bottom"
                     },
                     "fill": {
-                        "value": "#000"
+                        "value": "#FFFFFF"
                     },
                     "text": {
                         "field": "name"
@@ -188,6 +188,7 @@
                         "scale": "size",
                         "field": "size"
                     }
+                    
                 },
                 "update": {
                     "x": {
@@ -208,7 +209,7 @@
             "encode": {
                 "enter": {
                     "font": {
-                        "value": "Didact Gothic"
+                        "value": "Lato"
                     },
                     "align": {
                         "value": "center"
@@ -217,7 +218,7 @@
                         "value": "top"
                     },
                     "fill": {
-                        "value": "#000"
+                        "value": "#FFFFFF"
                     },
                     "text": {
                         "field": "size"
@@ -237,5 +238,8 @@
                 }
             }
         }
-    ]
+    ],
+    "config": {
+        "font": "Lato"
+    }
 }
