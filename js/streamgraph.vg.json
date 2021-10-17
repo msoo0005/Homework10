@@ -1,6 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": "container",
+  "title": {
+    "text":"Renewable Energy Growth",
+    "fontSize": 20
+},
   "data": {
     "url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/area_chart_data.csv"
   },
@@ -147,5 +151,8 @@
         }
       }
     }
-  ]
+  ],
+  "config":{
+    "font":"Lato"
+  }
 }
