@@ -173,10 +173,47 @@
                     "fill": {
                         "value": "transparent"
                     }
-                },
-                "hover": {
+                }
+            }
+        },
+        {
+            "type": "text",
+            "from": {
+                "data": "leaves"
+            },
+            "interactive": false,
+            "encode": {
+                "enter": {
+                    "font": {
+                        "value": "Roboto Condensed"
+                    },
+                    "align": {
+                        "value": "center"
+                    },
+                    "baseline": {
+                        "value": "bottom"
+                    },
                     "fill": {
-                        "value": "red"
+                        "value": "#000"
+                    },
+                    "text": {
+                        "field": "name"
+                    },
+                    "fontSize": {
+                        "scale": "size",
+                        "field": "depth"
+                    },
+                    "fillOpacity": {
+                        "scale": "opacity",
+                        "field": "depth"
+                    }
+                },
+                "update": {
+                    "x": {
+                        "signal": "0.5 * (datum.x0 + datum.x1)"
+                    },
+                    "y": {
+                        "signal": "0.5 * (datum.y0 + datum.y1)"
                     }
                 }
             }
@@ -189,17 +226,20 @@
             "interactive": false,
             "encode": {
                 "enter": {
+                    "font": {
+                        "value": "Didact Gothic"
+                    },
                     "align": {
                         "value": "center"
                     },
                     "baseline": {
-                        "value": "middle"
+                        "value": "top"
                     },
                     "fill": {
                         "value": "#000"
                     },
                     "text": {
-                        "field": "name"
+                        "field": "size"
                     },
                     "fontSize": {
                         "scale": "size",
