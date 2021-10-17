@@ -1,10 +1,13 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Renewable Energy Investment",
-    "width": 400,
-    "height": 300,
+    "title": {
+        "text": "Renewable Energy Investment",
+        "fontSize": 20
+    },
+    "width": 500,
+    "height": 400,
     "data": {
-        "url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/money_data.csv"
+        "url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/final_money_data.csv"
     },
     "mark": {
         "type": "line",
@@ -14,7 +17,7 @@
         "continent_highlight": {
             "type": "multi",
             "fields": [
-                "Region"
+                "Technology"
             ],
             "bind": "legend"
         }
@@ -25,33 +28,49 @@
             "timeUnit": "year"
         },
         "y": {
-            "field": "Public Investment (2018 Million USD)",
+            "field": "Investment",
             "aggregate": "sum",
             "type": "quantitative",
             "axis": {
-                "title": "Public Investment (USD)"
+                "title": "Public Investment (M USD)"
             }
         },
         "color": {
-            "field": "Region",
-            "type": "nominal"
+            "field": "Technology",
+            "type": "nominal",
+            "scale": {
+                "domain": [
+                    "Bioenergy",
+                    "Geothermal energy",
+                    "Hydropower (excl. Pumped Storage)",
+                    "Solar energy",
+                    "Wind energy"
+                ],
+                "range": [
+                    "#2e1a1a",
+                    "#ff8800",
+                    "#1100ff",
+                    "#ffd900",
+                    "#096106"
+                ]
+            }
         },
         "opacity": {
             "condition": {
                 "selection": "continent_highlight",
-                "value": 1.0
+                "value": 0.8
             },
             "value": 0.2
         },
         "tooltip": [
             {
-                "title": "Region",
-                "field": "Region",
+                "title": "Technology",
+                "field": "Technology",
                 "type": "nominal"
             },
             {
-                "title": "Investment ( Million USD)",
-                "field": "Public Investment (2018 Million USD)",
+                "title": "Investment (Million USD)",
+                "field": "Investment",
                 "type": "quantitative",
                 "format": ".0f",
                 "aggregate": "sum"
@@ -63,5 +82,8 @@
                 "timeUnit": "year"
             }
         ]
+    },
+    "config": {
+        "font": "Lato"
     }
 }
