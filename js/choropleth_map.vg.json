@@ -84,11 +84,15 @@
           "field": "RE Percentage",
           "type": "quantitative",
           "scale": {
+              "scheme":"greens",
             "type": "linear",
             "domain": [
               0,
               100
             ]
+          },
+          "legend":{
+            "title": "Energy Percentage %"
           }
         },
         "tooltip": [
