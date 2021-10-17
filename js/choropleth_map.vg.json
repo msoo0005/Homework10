@@ -13,11 +13,11 @@
           }
         }
         ],
-  "hconcat": [
+  "vconcat": [
     
     {
       "title": "Ranking",
-      "width":200,
+      "width":"container",
       "data": {
         "url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/full_renewable_data.csv"
       },
@@ -59,7 +59,7 @@
     },
     {
       "title": "World Renewable Energy",
-      "width":395,
+      "width":"container",
       "projection": {
         "type": "equalEarth"
       },
