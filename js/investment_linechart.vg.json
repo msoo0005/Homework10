@@ -4,7 +4,7 @@
         "text": "Renewable Energy Investment",
         "fontSize": 20
     },
-    "width": 500,
+    "width": "container",
     "height": 400,
     "data": {
         "url": "https://raw.githubusercontent.com/msoo0005/Homework10/main/data/final_money_data.csv"
