@@ -59,7 +59,7 @@
     },
     {
       "title": "World Renewable Energy",
-      "width":295,
+      "width":395,
       "projection": {
         "type": "equalEarth"
       },
